@@ -1,0 +1,107 @@
+{
+  "keywords": [
+    "ai",
+    "agent",
+    "agents",
+    "agentic",
+    "automation",
+    "workflow",
+    "mcp",
+    "openai",
+    "chatgpt",
+    "codex",
+    "anthropic",
+    "claude",
+    "gemini",
+    "google",
+    "shopify",
+    "ecommerce",
+    "commerce",
+    "checkout",
+    "retail",
+    "merchant",
+    "youtube",
+    "creator",
+    "affiliate",
+    "ads",
+    "marketing",
+    "stripe",
+    "visa",
+    "mastercard",
+    "n8n",
+    "zapier"
+  ],
+  "feeds": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "category": "official-ai",
+      "weight": 5
+    },
+    {
+      "name": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "category": "official-ai",
+      "weight": 5
+    },
+    {
+      "name": "Google Shopping",
+      "url": "https://blog.google/products-and-platforms/products/shopping/rss/",
+      "category": "official-commerce",
+      "weight": 5
+    },
+    {
+      "name": "YouTube Blog",
+      "url": "https://blog.youtube/rss/",
+      "category": "official-creator",
+      "weight": 4
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "journalism-ai",
+      "weight": 3
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "category": "journalism-ai",
+      "weight": 3
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed",
+      "category": "journalism-ai",
+      "weight": 3
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "category": "journalism-ai",
+      "weight": 2
+    },
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "category": "builder-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/feed",
+      "category": "builder-analysis",
+      "weight": 3
+    }
+  ],
+  "manual_watchlist": [
+    "https://www.anthropic.com/news",
+    "https://www.anthropic.com/engineering",
+    "https://www.shopify.com/news",
+    "https://www.shopify.com/blog/topics/ai",
+    "https://www.shopifreaks.com/",
+    "https://www.triplewhale.com/blog",
+    "https://techmeme.com/",
+    "https://news.ycombinator.com/"
+  ]
+}
+
