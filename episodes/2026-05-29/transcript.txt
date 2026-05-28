@@ -5,7 +5,7 @@ Paddy Cleary (00:09.542)
 Is this your plan all along? That was the opening line.
 
 Bora (00:11.374)
-I planned it. So folks, welcome to episode number one of Patty and Bora Jam, which we lovingly called PBJ.
+ planned it. So folks, welcome to episode number one of Paddy and Bora Jam, which we lovingly called PBJ.
 
 Paddy Cleary (00:24.71)
 Do you wanna give background on on on this other alternative name that our agents come up with?
@@ -41,21 +41,21 @@ That was that was last night when I was with him. Well I was saying we could get
 Bora (01:58.841)
 Sure, that sounds awesome.
 
-So why are we doing this? So Patty and I talk about
+So why are we doing this? So Paddy and I talk about
 
-just AI and agents and tech all the time. And I really enjoy those conversations. And I figure if you record them, maybe other people will enjoy them too. So that's why we're recording it now. And we came up with actually a funny thing. Let's just tell everyone. Yesterday, when we were kind of preparing what to talk about, I created a GitHub repo called PBJ. I invited Patty.
+just AI and agents and tech all the time. And I really enjoy those conversations. And I figure if you record them, maybe other people will enjoy them too. So that's why we're recording it now. And we came up with actually a funny thing. Let's just tell everyone. Yesterday, when we were kind of preparing what to talk about, I created a GitHub repo called PBJ. I invited Paddy.
 
-And had AI agents do some research on the latest AI news and some of the stuff that's top of mind for me And also for Patty. So that's how we came up with the list of things to talk about But maybe we should just introduce ourselves a little bit Patty just in case people wonder like who are these guys anyway So I'm Bara Celik I'm the founder and CEO of a company called Gentic That builds
+And had AI agents do some research on the latest AI news and some of the stuff that's top of mind for me And also for Paddy. So that's how we came up with the list of things to talk about But maybe we should just introduce ourselves a little bit Paddy just in case people wonder like who are these guys anyway So I'm Bora Celik I'm the founder and CEO of a company called Gentic That builds
 
-agentic infrastructure for e-commerce brands. What is agentic infrastructure? Mostly MCP servers and the data behind them. So that's what I do. Patty?
+agentic infrastructure for e-commerce brands. What is agentic infrastructure? Mostly MCP servers and the data behind them. So that's what I do. Paddy?
 
 Paddy Cleary (03:14.954)
-yeah, Patty Cleary, co-founder of Paul Street, we're a partner marketing agency. Background in startups, fintech, and studied engineering in college, so have been AI pilled for the last couple of years, which has led to our conversations, weekly kind of chats about how agents are changing each kind of changing how companies work today.
+yeah, Paddy Cleary, co-founder of Paul Street, we're a partner marketing agency. Background in startups, fintech, and studied engineering in college, so have been AI pilled for the last couple of years, which has led to our conversations, weekly kind of chats about how agents are changing each kind of changing how companies work today.
 
 And yeah, similarly, I've thought this would be a good concept for a while to to just record these conversations. So well I'll just probably try to stay on track a bit more today. but but yeah, let's let's see where it goes. Does that does that t shirt say run MCP?
 
 Bora (03:58.957)
-All right, so Patty, let's go through the topics. Run MCP. So you know where I got it? I bought it from an MCP server. Like this T-shirt, think, where did I get it from? This guy Ruben, I think he's like one of the API engineers at this company called Postman.
+All right, so Paddy, let's go through the topics. Run MCP.
 
 Paddy Cleary (04:07.696)
 Where did you get that? What d what is it?
@@ -265,7 +265,7 @@ I even no, I I I mean more the the the technical infrastructure for a company to
 Bora (22:13.902)
 Yeah, so for now, I think that's why that's what I'm doing because I'm like, I don't want to work on things that are going to die, you know, or like not die, but it's like from a business pro.
 
-perspective, right? You know, the other thing, Patty is, you know, tied to jobs and employment, right? What are people supposed to work on at the company if agents are doing everything? And I've been saying for a while now, they need to be agent builders, and they need to be agent orchestrators, right? So I think part of the whole thing is starting from training these companies and their employees to understand how to not just how to use AI, because sometimes you see like,
+perspective, right? You know, the other thing, Paddy is, you know, tied to jobs and employment, right? What are people supposed to work on at the company if agents are doing everything? And I've been saying for a while now, they need to be agent builders, and they need to be agent orchestrators, right? So I think part of the whole thing is starting from training these companies and their employees to understand how to not just how to use AI, because sometimes you see like,
 
 this training stuff out there. It's like, look, this is the way to use Chatchi BT, create a project in Claude and this is to use core. I'm like, this is just basic stuff, Table stakes.
 
@@ -493,7 +493,7 @@ All right, next topic, super fun. I saw this yesterday. I was like, I got to try
 
 to do trading through your AI agents. So the Verge reporter Robinhood is opening its trading platform to AI agents. The announcement says users can connect agents through AI native MCP servers. It's launching in beta with equities first, options, crypto, event contracts, futures. And then there's an agent to credit card that lets agents spend through a dedicated virtual card. And I am super intrigued.
 
-Patty, what do you think about this thing?
+Paddy, what do you think about this thing?
 
 Paddy Cleary (46:29.49)
 yeah. I mean it's so what I do at the moment, what I do today is I have a project in cowork, I think. Claude am I personal Claude Cowork? which has any like my positions I have, knows about me, knows what my kind of goals are. And I just talk to that about so the main thing that I track for any public equities I hold are mostly
@@ -599,7 +599,7 @@ Well, that's the one thing that I'm it's the only reason that as as of the belie
 these companies and equities are going to like take off. If you if you believe Elon's normally directionally correct. If he's talking about triple digit GDP growth in the next ten years, that's something that's never been seen before and there will be specific winners and specific equities that don't win in that. So I'm like, okay, I need to just at least have positions across the market. So I probably have whatever twenty different positions.
 
 Bora (54:28.317)
-Yeah. Okay. So this Robinhood game, we're going to play this. So next one, a topic that we had. So this is an interesting revelation that I had last week. So Patty, do you use Claude code for anything? What are you using it for?
+ game, we're going to play this. So next one, a topic that we had. So this is an interesting revelation that I had last week. So Paddy, do you use Claude code for anything? What are you using it for?
 
 Paddy Cleary (54:41.048)
 Yeah, yeah, yeah, yeah. the last so I use it less at the moment 'cause like I said, my main like focus is just getting the team up to speed, which was mostly then around just using cowork. But like when Opus four point six first came out and or was first like added in, which I think was like December, so when I got back like in January, February I was
@@ -674,7 +674,7 @@ the best productivity hack.
 Bora (01:02:11.796)
 Gentic Web Engineer, Model Engine, like there's just a lot of different components, a lot of different repos, and each engineer, I give them, you are the engineer for this repo, like you're responsible for this, right? And then their memory just builds up about that repo. So every time we work on something about that project, they're just like, they have more information than the other engineers, like inside of that repo, inside of that folder, or tab. And then, but as you know,
 
-I live in Rhode Island, it's beach season. So I don't wanna be tied to my laptop and I don't wanna bring my laptop and I wanna be out and about, just go to beach, do things, do that. But the thing is we can get the agent still working, Patty, like we don't, the work doesn't have to stop. That's the thing. So the idea here is that how can the agents keep working when I'm not here? Or I don't wanna bring my laptop with me, right?
+I live in Rhode Island, it's beach season. So I don't wanna be tied to my laptop and I don't wanna bring my laptop and I wanna be out and about, just go to beach, do things, do that. But the thing is we can get the agent still working, Paddy, like we don't, the work doesn't have to stop. That's the thing. So the idea here is that how can the agents keep working when I'm not here? Or I don't wanna bring my laptop with me, right?
 
 Paddy Cleary (01:02:54.374)
 Surf. To be clear, you should let people know you surf.
@@ -752,7 +752,7 @@ Paddy Cleary (01:08:07.952)
 Fireflies.
 
 Bora (01:08:29.782)
-So we have other things to talk about about Patty. just ran, we're at 68 minutes now. So I think we should end our conversation here and then maybe continue next week from where we left off with some of the news and some of the other important topics.
+So we have other things to talk about about Paddy. just ran, we're at 68 minutes now. So I think we should end our conversation here and then maybe continue next week from where we left off with some of the news and some of the other important topics.
 
 Paddy Cleary (01:08:33.274)
 Yeah. Yeah yeah. Well have to pick it up.
@@ -797,11 +797,10 @@ Paddy Cleary (01:11:26.628)
 We have to talk about that, yeah.
 
 Bora (01:11:44.607)
-And then I'm having, I have a discussion in GitHub now. have coded. Yeah, exactly. Yeah, we can get into it in either next week or the week after that. All right, Patty, nice chatting with you. Talk to you next time,
+And then I'm having, I have a discussion in GitHub now. have coded. Yeah, exactly. Yeah, we can get into it in either next week or the week after that. All right, Paddy, nice chatting with you. Talk to you next time,
 
 Paddy Cleary (01:11:47.278)
 Let's let's pause it there. We gotta we gotta we gotta unpack that a bit more.
 
 Paddy Cleary (01:11:54.744)
 That's great. Yeah. Talk to you. Bye bye. Cheers.
-
