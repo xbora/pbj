@@ -1,0 +1,4075 @@
+1
+00:00:01,268 --> 00:00:06,767
+Okay, uh an Irish guy and a Turkish guy walk into a bar.
+
+2
+00:00:09,542 --> 00:00:10,722
+Is this your plan all along?
+
+3
+00:00:10,722 --> 00:00:11,955
+That was the opening line.
+
+4
+00:00:11,955 --> 00:00:12,976
+planned it.
+
+5
+00:00:14,220 --> 00:00:23,317
+So folks, welcome to episode number one of Patty and Bora Jam, which we lovingly called
+PBJ.
+
+6
+00:00:24,710 --> 00:00:29,930
+Do you wanna give background on on on this other alternative name that our agents come up
+with?
+
+7
+00:00:30,656 --> 00:00:33,759
+Yeah, you give the background
+
+8
+00:00:35,686 --> 00:00:37,667
+what's a good way to do it.
+
+9
+00:00:37,707 --> 00:00:40,786
+On the way home last night I was I was at dinner in the city in New York.
+
+10
+00:00:40,786 --> 00:00:48,150
+Uh Bora sent me a markdown file to uh prep notes of the little topics we're gonna talk
+through today.
+
+11
+00:00:48,590 --> 00:00:51,851
+I was in a back of an Uber, so just on my iPhone.
+
+12
+00:00:51,991 --> 00:00:59,874
+Can't read markdown file, go into cloud, convert it to HTML so I can just quickly skim
+through it, which also
+
+13
+00:01:00,718 --> 00:01:05,300
+insane that that's where we're at that we can just create these marked in files in the
+back of an Uber.
+
+14
+00:01:05,561 --> 00:01:07,562
+or HTML sorry, HTML files.
+
+15
+00:01:07,902 --> 00:01:10,844
+And the titles, Pints, Bots, and Judgment.
+
+16
+00:01:12,585 --> 00:01:18,329
+Which I thought I thought you were you wanted us to have some Pints of Guinness and copy
+the Collison Brothers.
+
+17
+00:01:18,329 --> 00:01:20,015
+Um or actually
+
+18
+00:01:20,015 --> 00:01:24,541
+so we can have pints of Guinness again because I'm only having Guinness when you visit.
+
+19
+00:01:25,156 --> 00:01:27,432
+I always down.
+
+20
+00:01:27,977 --> 00:01:30,935
+you also have to come to New York more, but um
+
+21
+00:01:31,520 --> 00:01:33,377
+I will soon, maybe next month.
+
+22
+00:01:33,377 --> 00:01:35,894
+ah
+
+23
+00:01:35,894 --> 00:01:39,557
+there there's this like a AI summit one of my friends is putting on.
+
+24
+00:01:39,557 --> 00:01:42,279
+He I was with him last night, Nick Sharma.
+
+25
+00:01:42,279 --> 00:01:47,041
+He actually that just reminds me before I forget, was asking if you would speak at it.
+
+26
+00:01:48,056 --> 00:01:51,881
+he actually sent me LinkedIn request just like this morning.
+
+27
+00:01:52,022 --> 00:01:53,204
+That's the thing.
+
+28
+00:01:53,204 --> 00:01:54,747
+Okay, yeah, I'll speak at it.
+
+29
+00:01:54,747 --> 00:01:55,788
+I listened to his podcast.
+
+30
+00:01:55,788 --> 00:01:56,512
+I love that guy.
+
+31
+00:01:56,512 --> 00:02:02,681
+we could get we should get like a workshop or something or you to build some agents on
+stage or something like that.
+
+32
+00:02:03,516 --> 00:02:05,822
+So why are we doing this?
+
+33
+00:02:05,822 --> 00:02:08,869
+So Patty and I talk about
+
+34
+00:02:08,974 --> 00:02:11,954
+just AI and agents and tech all the time.
+
+35
+00:02:11,954 --> 00:02:13,314
+And I really enjoy those conversations.
+
+36
+00:02:13,314 --> 00:02:17,234
+And I figure if you record them, maybe other people will enjoy them too.
+
+37
+00:02:17,234 --> 00:02:19,354
+So that's why we're recording it now.
+
+38
+00:02:19,954 --> 00:02:22,534
+And we came up with actually a funny thing.
+
+39
+00:02:22,534 --> 00:02:23,954
+Let's just tell everyone.
+
+40
+00:02:24,174 --> 00:02:31,634
+Yesterday, when we were kind of preparing what to talk about, I created a GitHub repo
+called PBJ.
+
+41
+00:02:31,634 --> 00:02:33,114
+I invited Patty.
+
+42
+00:02:33,294 --> 00:02:41,699
+ah And had AI agents do some research on the latest AI news and some of the stuff that's
+top of mind for me And also for Patty.
+
+43
+00:02:41,699 --> 00:02:52,784
+So that's how we came up with uh the list of things to talk about ah But maybe we should
+just introduce ourselves a little bit Patty just uh in case people wonder like who are
+
+44
+00:02:52,784 --> 00:03:03,110
+these guys anyway So I'm Bara Celik uh I'm the founder and CEO of a company called Gentic
+ah That builds
+
+45
+00:03:03,444 --> 00:03:06,356
+agentic infrastructure for e-commerce brands.
+
+46
+00:03:06,376 --> 00:03:08,158
+What is agentic infrastructure?
+
+47
+00:03:08,158 --> 00:03:11,399
+Mostly MCP servers and the data behind them.
+
+48
+00:03:11,399 --> 00:03:13,221
+So that's what I do.
+
+49
+00:03:13,221 --> 00:03:14,201
+Patty?
+
+50
+00:03:14,954 --> 00:03:20,276
+yeah, Patty Cleary, um co-founder of Paul Street, we're a partner marketing agency.
+
+51
+00:03:20,276 --> 00:03:32,642
+Background in startups, fintech, and studied engineering in college, so have been AI
+pilled for the last couple of years, which has led to our conversations, weekly kind of
+
+52
+00:03:32,642 --> 00:03:41,465
+chats about how agents are changing each kind of changing how companies work today.
+
+53
+00:03:43,086 --> 00:03:50,241
+And yeah, similarly, I've thought this would be a good concept for a while to to just
+record these conversations.
+
+54
+00:03:50,241 --> 00:03:54,024
+So well I'll just probably try to stay on track a bit more today.
+
+55
+00:03:55,215 --> 00:03:58,557
+but but yeah, let's uh let's see where it goes.
+
+56
+00:04:00,659 --> 00:04:03,120
+Does that does that t shirt say run MCP?
+
+57
+00:04:03,770 --> 00:04:05,190
+Run MCP.
+
+58
+00:04:07,932 --> 00:04:10,493
+So you know where I got it?
+
+59
+00:04:10,493 --> 00:04:13,074
+I bought it from an MCP server.
+
+60
+00:04:14,235 --> 00:04:17,327
+Like this T-shirt, think, where did I get it from?
+
+61
+00:04:17,327 --> 00:04:27,062
+This guy Ruben, I think he's like one of the API engineers at this company called Postman.
+
+62
+00:04:27,382 --> 00:04:35,249
+So Postman is this platform that allows you to call APIs.
+
+63
+00:04:35,309 --> 00:04:42,356
+So they're also building all the stuff with MCP servers, and because MCP servers for
+agents to use.
+
+64
+00:04:42,356 --> 00:04:50,453
+So he built uh a Shopify shop that you can purchase things via an MCP server.
+
+65
+00:04:50,453 --> 00:04:52,205
+So I bought this from Claude.
+
+66
+00:04:52,205 --> 00:04:53,545
+I went into Claude.
+
+67
+00:04:54,144 --> 00:04:58,776
+I connected to his MCP server for his Shopify shop.
+
+68
+00:04:59,076 --> 00:05:00,387
+And then I placed an order.
+
+69
+00:05:00,387 --> 00:05:02,307
+Basically Claude asked me, what's your address?
+
+70
+00:05:02,307 --> 00:05:03,458
+What's your name?
+
+71
+00:05:03,458 --> 00:05:04,318
+What's your size?
+
+72
+00:05:04,318 --> 00:05:06,299
+And I said, all right, large.
+
+73
+00:05:06,920 --> 00:05:09,540
+And then it shipped and I got it.
+
+74
+00:05:10,361 --> 00:05:12,413
+So this is agent e-commerce.
+
+75
+00:05:12,413 --> 00:05:13,413
+about through that.
+
+76
+00:05:13,413 --> 00:05:20,407
+Um which is funny, that's kinda that's actually where we started chatting.
+
+77
+00:05:20,407 --> 00:05:26,390
+So I reached out to you 'cause I saw you were one of the only people writing about C P
+servers.
+
+78
+00:05:26,390 --> 00:05:28,782
+What back when was that?
+
+79
+00:05:28,782 --> 00:05:31,617
+When was when was MCP kind of defined by Enthropic?
+
+80
+00:05:31,617 --> 00:05:35,535
+It was like November, September, October, November twenty four, was it?
+
+81
+00:05:35,842 --> 00:05:37,376
+Well no year before.
+
+82
+00:05:37,376 --> 00:05:39,177
+It was the end of the year before.
+
+83
+00:05:39,578 --> 00:05:40,454
+And then
+
+84
+00:05:40,454 --> 00:05:41,945
+everything is like melting now.
+
+85
+00:05:41,945 --> 00:05:48,817
+year, I think I saw you posting about MC building agents with MCP servers for D D C
+brands.
+
+86
+00:05:48,817 --> 00:05:50,901
+And you're the only person I could find.
+
+87
+00:05:51,482 --> 00:05:56,265
+And then I and then and then you wrote back to me and jumped on a call and you were
+sitting on the beach.
+
+88
+00:05:57,387 --> 00:06:07,294
+And then we spoke for like an hour on how MCP uh the the concept of MCP was changing
+everything, and you told me that you had to email all your investors saying you can't.
+
+89
+00:06:07,300 --> 00:06:11,698
+You have to pivot 'cause C P was just defined and it changes everything.
+
+90
+00:06:11,698 --> 00:06:13,570
+So so fitting fitting t shirt.
+
+91
+00:06:13,570 --> 00:06:14,178
+To wear.
+
+92
+00:06:14,178 --> 00:06:15,618
+exactly.
+
+93
+00:06:15,638 --> 00:06:22,178
+It said, no, I know exactly, October 1st, 2024, I was sending the September update.
+
+94
+00:06:22,258 --> 00:06:26,938
+The first line, SaaS is that happy October.
+
+95
+00:06:28,238 --> 00:06:38,755
+That's basically when I decided that prior to it, all the technology that we built, I
+mean, this is obviously through...
+
+96
+00:06:38,755 --> 00:06:42,842
+uh respond negatively or like get angry at you for that?
+
+97
+00:06:42,842 --> 00:06:50,116
+just replied, well, not, just sent me an email two days ago because I've been saying this
+for over two years.
+
+98
+00:06:50,116 --> 00:06:50,970
+Yeah.
+
+99
+00:06:50,998 --> 00:06:51,932
+That was it.
+
+100
+00:06:51,932 --> 00:06:53,613
+no, Bora, you're exaggerating.
+
+101
+00:06:53,613 --> 00:06:56,245
+You're like, you're too ahead of the curve.
+
+102
+00:06:56,245 --> 00:06:57,766
+The world doesn't work like that.
+
+103
+00:06:57,766 --> 00:06:59,727
+I'm like, well, I don't know, we'll see.
+
+104
+00:06:59,727 --> 00:07:05,170
+But now, like in the email, look, look, actually, let me just go, actually, no, no, no.
+
+105
+00:07:05,170 --> 00:07:10,012
+I'll find the email, the exact email that he sent me, and then I'll read it to you.
+
+106
+00:07:10,012 --> 00:07:17,276
+So, one of my investors, he said that,
+
+107
+00:07:21,022 --> 00:07:22,723
+because like, okay, yes.
+
+108
+00:07:22,723 --> 00:07:25,705
+It seems like you're an early adopter for many things.
+
+109
+00:07:25,705 --> 00:07:30,767
+You were the first founder in the portfolio who seemed very bearish about anything
+software.
+
+110
+00:07:30,847 --> 00:07:34,709
+Now I see there's a cohort of founders who are converging to your view.
+
+111
+00:07:35,750 --> 00:07:40,463
+Are you able to share what what port what fund or portfolio or probably not?
+
+112
+00:07:40,786 --> 00:07:42,299
+Yeah yeah yeah yeah.
+
+113
+00:07:42,299 --> 00:07:45,213
+uh like internal memo and asking for my view.
+
+114
+00:07:45,213 --> 00:07:49,308
+And in his memo is basically like, what can you defend?
+
+115
+00:07:49,308 --> 00:07:51,229
+What is defensible right now?
+
+116
+00:07:51,290 --> 00:07:52,170
+Right.
+
+117
+00:07:52,231 --> 00:07:56,055
+And it's just like all the typical things, know, just not code.
+
+118
+00:07:56,248 --> 00:07:56,688
+You know?
+
+119
+00:07:56,688 --> 00:08:02,511
+uh But anyway, so that's basically, I've been on that tip for a while.
+
+120
+00:08:02,511 --> 00:08:11,335
+And even, I think, on my YouTube channel, Agentic Brand, one of the earlier ones, is I
+have a demo of...
+
+121
+00:08:11,875 --> 00:08:24,800
+buying something like doing research in Cloud in a Shopify stores catalog, and then buying
+it using the Stripe MCP because Stripe MCP was one of the first MCPs that was out there.
+
+122
+00:08:24,800 --> 00:08:33,984
+uh And then now that they have like the, you know, and it was functional, you know, it was
+working.
+
+123
+00:08:33,984 --> 00:08:38,796
+But so let's take a look at our notes here uh and get into it.
+
+124
+00:08:38,796 --> 00:08:41,423
+You sent me, uh
+
+125
+00:08:41,423 --> 00:08:42,325
+Where is that?
+
+126
+00:08:42,325 --> 00:08:44,247
+Let me just click on it again.
+
+127
+00:08:44,383 --> 00:08:45,509
+I kind of lost it.
+
+128
+00:08:45,509 --> 00:08:50,397
+uh Yeah, yep.
+
+129
+00:08:50,397 --> 00:08:52,480
+uh here it is.
+
+130
+00:08:53,022 --> 00:08:56,546
+So topics, topic number one, agent harnesses.
+
+131
+00:08:57,402 --> 00:08:58,208
+Yep.
+
+132
+00:08:58,605 --> 00:09:00,916
+So agent harnesses, let's talk about that.
+
+133
+00:09:00,916 --> 00:09:03,196
+I'll get that started.
+
+134
+00:09:04,337 --> 00:09:11,819
+So prior to agents, we have ChatGPT, we have Claude, people are asking questions, people
+are getting replies.
+
+135
+00:09:13,080 --> 00:09:17,902
+And then agents come in, agents run in NA10 or other places.
+
+136
+00:09:17,902 --> 00:09:21,443
+uh And now OpenClaude comes out.
+
+137
+00:09:22,235 --> 00:09:27,783
+OpenCol i is an agent harness and there's Hermes and all these, these are all agent
+harnesses, right?
+
+138
+00:09:27,783 --> 00:09:30,582
+what's that?
+
+139
+00:09:30,582 --> 00:09:31,492
+for this.
+
+140
+00:09:31,493 --> 00:09:36,434
+I have good anecdotes from from dinner last night with two founders that that is relevant
+for this.
+
+141
+00:09:38,115 --> 00:09:38,726
+Well, go ahead.
+
+142
+00:09:38,726 --> 00:09:48,350
+No, what one of them, one of them super uh has his Hermes agent set up, he's running like
+five, six businesses, has all his different Hermes agents connected on his Mac minis that
+
+143
+00:09:48,350 --> 00:09:49,000
+he's running.
+
+144
+00:09:49,000 --> 00:09:53,232
+And then the other founder, also successful kind of consumer founder, has
+
+145
+00:09:53,934 --> 00:09:55,595
+Yeah, has a big brand.
+
+146
+00:09:56,456 --> 00:09:59,386
+but anyway, he he's trying to learn more about AI.
+
+147
+00:09:59,386 --> 00:10:02,066
+He's like, Yeah, I just ripped Chat GPT on my laptop.
+
+148
+00:10:02,066 --> 00:10:05,162
+It's like, All right, well what like what do you actually use it for?
+
+149
+00:10:05,162 --> 00:10:12,366
+And then he's asking us, so we were kinda trying to explain the different concepts to him
+and I think this is actually really valuable
+
+150
+00:10:13,402 --> 00:10:20,482
+topic for people to understand what a harness is, that is like, and what's the difference
+because he's like, yeah, what what model should I use?
+
+151
+00:10:20,482 --> 00:10:30,139
+And it's like, well, you can kind of choose between, and I think this is somewhere in your
+notes, is the different models are more of a commodity and really understanding the type
+
+152
+00:10:30,139 --> 00:10:37,312
+of work you're doing and the type of harness that will make the most sense for you and
+also whichever one you can adopt and understand the best.
+
+153
+00:10:37,312 --> 00:10:43,604
+So yeah, for someone starting out setting up their OpenClaw Hermes and a Mac Mini might
+not be the
+
+154
+00:10:44,487 --> 00:10:49,862
+But Claude has done a great job of creating great harnesses and even that's what cowork
+is.
+
+155
+00:10:49,862 --> 00:10:55,917
+Cowork is just the harness of Claude code and gets you kind of same access that's more
+user-friendly.
+
+156
+00:10:55,917 --> 00:11:04,404
+They have built these different features like dispatch to enable gonna remote uh working
+on your phone instead of telegram.
+
+157
+00:11:04,484 --> 00:11:05,925
+But I cut you off.
+
+158
+00:11:06,297 --> 00:11:07,634
+Yeah, no, it is.
+
+159
+00:11:07,667 --> 00:11:08,269
+So.
+
+160
+00:11:08,269 --> 00:11:14,202
+Cloud code is a harness, cloud cowork is a harness, and then OpenAIS codecs.
+
+161
+00:11:14,202 --> 00:11:17,123
+So these are harnesses that run on your computer, right?
+
+162
+00:11:17,123 --> 00:11:25,007
+uh And then same thing with OpenClaw and Hermes and several variations of those that kind
+of run on the computer.
+
+163
+00:11:25,007 --> 00:11:34,371
+the difference between a harness and just like a regular AI assistant, so there's an AI
+assistant, there's an AI agent, and then there's an AI agent that runs in a harness.
+
+164
+00:11:34,371 --> 00:11:38,566
+So AI assistants are these AIs that answer our questions, right?
+
+165
+00:11:38,566 --> 00:11:42,346
+chat GPT is an AI assistant, Claude's an AI assistant.
+
+166
+00:11:42,666 --> 00:11:44,366
+AI agent does things.
+
+167
+00:11:44,366 --> 00:11:47,226
+It doesn't wait for you to kind of question answer.
+
+168
+00:11:47,406 --> 00:11:58,046
+So we set up these agents on innate and an agent is like there's a model, which is the
+LLM, either an open AI model or an anthropic model or Gemini model or whatever.
+
+169
+00:11:58,206 --> 00:11:59,606
+Then there's memory.
+
+170
+00:11:59,986 --> 00:12:01,606
+And then there are tools.
+
+171
+00:12:01,606 --> 00:12:04,306
+It could be MCP tools or other kinds of tools.
+
+172
+00:12:04,727 --> 00:12:07,728
+And then the agent makes use of these things.
+
+173
+00:12:07,728 --> 00:12:22,392
+So when we set up like an N8 and agent flow, like it goes in one direction, uh the LLM
+uses the memory and the MCP tools and the agent kind of coordinates that.
+
+174
+00:12:22,392 --> 00:12:28,124
+And then it kind of runs by itself either on a schedule or through triggers and does
+things, right?
+
+175
+00:12:28,124 --> 00:12:31,695
+So database reads database, writes some documents or things like that.
+
+176
+00:12:31,843 --> 00:12:35,686
+So it can do this by itself without us chatting with it.
+
+177
+00:12:35,927 --> 00:12:40,861
+But the way that it's done in N8n, it's kind of like a directional.
+
+178
+00:12:40,861 --> 00:12:43,113
+It goes in one way.
+
+179
+00:12:43,233 --> 00:12:54,563
+So the beautiful thing about the harness that Claude code really, I think, popularized is
+that it keeps going until the job is done in a loop.
+
+180
+00:12:55,024 --> 00:12:56,825
+So this loop is the thing.
+
+181
+00:12:57,886 --> 00:12:58,807
+And then.
+
+182
+00:12:59,139 --> 00:13:02,901
+you know, because normally, like if you go to an AT &T, if there's an error, it stops.
+
+183
+00:13:03,422 --> 00:13:05,903
+And then it's like, okay, like what happened?
+
+184
+00:13:07,104 --> 00:13:12,867
+So, but here in a harness environment, it just like keeps trying until the job is done.
+
+185
+00:13:13,007 --> 00:13:13,987
+Right.
+
+186
+00:13:14,467 --> 00:13:16,887
+So that's why kind of this became popular.
+
+187
+00:13:16,887 --> 00:13:24,727
+know, my company, like I first built an agent harness for my personal project, which was
+like, know, Mio for like personal AI assistant.
+
+188
+00:13:24,727 --> 00:13:26,687
+So that has an agent harness.
+
+189
+00:13:27,007 --> 00:13:35,747
+And then recently I built a Gentic computer, which is also an agent harness, which can
+talk to it from like either Slack or Telegram.
+
+190
+00:13:35,747 --> 00:13:40,647
+And it does things that you give it a job, but sometimes it does like 19 things.
+
+191
+00:13:40,816 --> 00:13:46,886
+uh It does one thing, it gets some results and it's like, oh, well, this is not what I'm
+looking for.
+
+192
+00:13:46,886 --> 00:13:48,488
+And then it does more.
+
+193
+00:13:48,569 --> 00:13:49,991
+I'll give you an example.
+
+194
+00:13:49,991 --> 00:13:53,015
+Like, oh, do some Reddit search on...
+
+195
+00:13:53,018 --> 00:13:57,069
+go look at Reddit forums to see what people are saying about certain things.
+
+196
+00:13:57,069 --> 00:14:01,610
+It does some searches and it doesn't find what it's looking for and it keeps going.
+
+197
+00:14:01,610 --> 00:14:11,692
+And then sometimes it goes to Google, if you give it to tools, if it looks at Google
+Trends, uh it kind of creates this report after a while.
+
+198
+00:14:11,692 --> 00:14:14,073
+So this is like a harness that's on the cloud.
+
+199
+00:14:14,073 --> 00:14:20,514
+It's not on the computer anywhere, it's not on my laptop, it's on the cloud server and
+it's installed there.
+
+200
+00:14:20,514 --> 00:14:22,795
+uh And there's an LLM.
+
+201
+00:14:23,245 --> 00:14:27,058
+which is, know, Claude or OpenAI or Gemini.
+
+202
+00:14:27,639 --> 00:14:28,759
+It has memory.
+
+203
+00:14:28,759 --> 00:14:31,481
+It has access to a file system.
+
+204
+00:14:31,542 --> 00:14:33,583
+File system is another interesting thing about Harness.
+
+205
+00:14:33,583 --> 00:14:35,595
+It just saves stuff so they can go back.
+
+206
+00:14:35,595 --> 00:14:38,586
+So this is why the Markdown became so popular.
+
+207
+00:14:38,586 --> 00:14:48,820
+That's also what I think has made uh OpenClaw or Hermes now as well so popular is like in
+even the guy is mentioning at dinner last night was talking about the main benefits or
+
+208
+00:14:48,820 --> 00:14:53,833
+reasons that he just uses Hermes agent versus a claude, is like, the memory's so much
+better.
+
+209
+00:14:53,833 --> 00:15:02,977
+Um well really that's just the harness creating these different file systems and
+constantly backing up your memory um on your Mac mini that's always live.
+
+210
+00:15:02,977 --> 00:15:04,817
+Which is a true benefit.
+
+211
+00:15:04,817 --> 00:15:06,192
+Uh
+
+212
+00:15:06,192 --> 00:15:10,025
+you're really just interacting to these agents through your phone.
+
+213
+00:15:10,025 --> 00:15:21,414
+Um what do you think then of all these different uh startup th th these these different
+startups they're busitioning themselves as like vertical specific agents.
+
+214
+00:15:21,835 --> 00:15:30,802
+I don't know, like media buying agents or I don't want to call out any specific startup,
+but
+
+215
+00:15:31,206 --> 00:15:36,053
+W w what do you think are are valuable in these startups and things to be wary of?
+
+216
+00:15:36,217 --> 00:15:38,023
+No, not valuable.
+
+217
+00:15:38,023 --> 00:15:42,957
+So basically, I'll tell you in 2024,
+
+218
+00:15:43,345 --> 00:15:44,625
+I gave up on SaaS, right?
+
+219
+00:15:44,625 --> 00:15:46,985
+Because I'm like, can't, SaaS can't be a business.
+
+220
+00:15:46,985 --> 00:15:53,485
+know, it's just, people are gonna, at the time agents weren't even a thing, but people
+were vibe coding stuff, know, it's the replica and all of that.
+
+221
+00:15:53,485 --> 00:15:55,725
+And I'm like, wow, like you can just vibe code all this stuff.
+
+222
+00:15:55,725 --> 00:16:01,925
+And this was before agents, before proper agentic engineering and everything was like kind
+of rink-a-dink.
+
+223
+00:16:01,925 --> 00:16:03,865
+But still you could see where it's going, right?
+
+224
+00:16:03,865 --> 00:16:07,265
+So like, I'm like never bet against progress.
+
+225
+00:16:07,305 --> 00:16:11,745
+So, and then agents came, but now people are building their own agents.
+
+226
+00:16:11,745 --> 00:16:13,298
+Agent building is so easy now.
+
+227
+00:16:13,298 --> 00:16:14,218
+Right?
+
+228
+00:16:15,258 --> 00:16:18,318
+Some of my customers, can teach them how to build their own agents.
+
+229
+00:16:18,318 --> 00:16:20,518
+I'm like, everybody wants to build their own agents.
+
+230
+00:16:20,518 --> 00:16:25,898
+And the reason for that is one, all of this stuff can be in-house now.
+
+231
+00:16:25,898 --> 00:16:28,478
+People are canceling their SaaS subscriptions.
+
+232
+00:16:30,198 --> 00:16:40,478
+Yeah, because it's your core competency, how this company works, why give that to a SaaS
+vendor that stores all the stuff in their own database?
+
+233
+00:16:40,524 --> 00:16:50,494
+Yeah, when I'm talking to other founders, the best analogy I give when they're trying
+these different startups or tools or agents or kind of onboarding these different yeah
+
+234
+00:16:50,494 --> 00:17:00,623
+agents that that they're replacing work, if you really think about what the what the grand
+vision is, is they're g gonna replace a lot of knowledge work or a lot of um work that you
+
+235
+00:17:00,623 --> 00:17:03,105
+might have employees doing today.
+
+236
+00:17:03,598 --> 00:17:12,400
+So if you just think about that and you say, oh yeah, we're gonna have all these agents
+and they're gonna do all this all these different types of work across different teams and
+
+237
+00:17:12,400 --> 00:17:22,943
+job functions, do you really wanna outsource where those agents are coming from and who
+controls and creates those agents?
+
+238
+00:17:23,003 --> 00:17:30,185
+Or in other words, you're outsourcing your employees, or depending on the business type,
+that changes how important that is or not.
+
+239
+00:17:31,326 --> 00:17:33,190
+but I wouldn't want
+
+240
+00:17:33,190 --> 00:17:46,816
+eh Also, you're get you're receiving the same agent that maybe all your competitors are
+receiving if they're using the same s tool or agent tool versus actually building your own
+
+241
+00:17:46,816 --> 00:17:51,998
+IP training your own agents that are on your own proprietary data that you want.
+
+242
+00:17:53,574 --> 00:17:57,329
+give specific guardrails or specific specifications around.
+
+243
+00:17:57,329 --> 00:18:04,238
+Uh but that's a lot I think we're gonna end up talking a lot more about on these podcasts
+is the reason or these recordings.
+
+244
+00:18:04,238 --> 00:18:05,830
+Um
+
+245
+00:18:06,534 --> 00:18:14,694
+reasons why that's so important and how I think that's where a lot of founders are stuck
+at the moment is like, well, I have no idea how to even go about that or they don't have
+
+246
+00:18:14,694 --> 00:18:17,370
+the right data infrastructure to even start that.
+
+247
+00:18:17,370 --> 00:18:18,580
+So they have no choice.
+
+248
+00:18:18,580 --> 00:18:23,563
+They have to use a whatever agent, some SAS tool is offering them or some startup.
+
+249
+00:18:23,563 --> 00:18:25,194
+And and there is good options as well.
+
+250
+00:18:25,194 --> 00:18:35,249
+Like if you've never used AI before and you have like some version of a Hermes agent and
+wrapped inside of some startup that can just
+
+251
+00:18:36,630 --> 00:18:44,530
+Complete a task for you and you ask it to some run run off and do something that's useful
+in your business and it actually works and since Slack.
+
+252
+00:18:44,530 --> 00:18:57,297
+Like those companies are still gonna succeed for now um until they make some sort of
+expensive mistake for a group of customers from not having the right guardrails in place.
+
+253
+00:18:57,297 --> 00:19:02,911
+I feel like that's gonna be pretty common, um which would be interesting to see.
+
+254
+00:19:03,332 --> 00:19:04,332
+But
+
+255
+00:19:05,414 --> 00:19:22,717
+But yeah, we're at a we're at the craziest time where w the conversations I have, there's
+so many founders that are trying to just test these different solutions and everyone now
+
+256
+00:19:22,717 --> 00:19:31,474
+it's in the uh it's mainstream to be trying to put agents into your company, uh which is
+good, people need to do that.
+
+257
+00:19:32,454 --> 00:19:38,058
+But I think sometimes the risks aren't fully understood, which also varies across company.
+
+258
+00:19:38,098 --> 00:19:41,807
+So it'll be interesting to see what and you know how startups work.
+
+259
+00:19:41,807 --> 00:19:47,615
+There's gonna be many startups that say they have all these uh safety features and
+everything else.
+
+260
+00:19:47,615 --> 00:19:58,293
+And we're also seeing the the increase in in cybersecurity or like hackers that are gonna
+be able to access or break these different startups.
+
+261
+00:19:58,293 --> 00:19:59,053
+So
+
+262
+00:19:59,783 --> 00:20:03,274
+how do those things play out over time, both both of those statements being true.
+
+263
+00:20:03,274 --> 00:20:04,740
+Um
+
+264
+00:20:06,918 --> 00:20:08,309
+Well certainly be interesting.
+
+265
+00:20:09,038 --> 00:20:14,180
+Yeah, this is not a common view what I'm sharing with you, right?
+
+266
+00:20:14,180 --> 00:20:25,103
+Because it's right now uh all these startups, tech companies who are kind of coming around
+to the idea that SaaS is not going to work out, but then will be an agent company, right?
+
+267
+00:20:25,103 --> 00:20:26,154
+That's what they are saying.
+
+268
+00:20:26,154 --> 00:20:28,334
+But I'm saying that's not even going to work.
+
+269
+00:20:28,594 --> 00:20:32,296
+So look, here's another interaction with one of my other MSers.
+
+270
+00:20:32,296 --> 00:20:33,666
+uh
+
+271
+00:20:33,666 --> 00:20:46,829
+As watching this episode with Gokul Rajaram, uh he was on Invest Like the Best podcast
+with Patrick O'Shaughnessy, I guess.
+
+272
+00:20:47,270 --> 00:20:48,691
+Is he an Irish guy?
+
+273
+00:20:48,912 --> 00:20:50,092
+Sounds Irish.
+
+274
+00:20:50,954 --> 00:20:54,376
+Patrick O'Shaughnessy, do you know the guy I'm talking about?
+
+275
+00:20:54,858 --> 00:20:55,738
+Yeah.
+
+276
+00:20:56,280 --> 00:20:56,742
+Okay.
+
+277
+00:20:56,742 --> 00:20:59,728
+a very Irish name, so I'm sure he has Irish heritage, but
+
+278
+00:20:59,728 --> 00:21:12,248
+Yeah, so I sent my investor on Slack the part where Gokul Rajan was saying, where agent
+building startups are gonna have a hard time because companies are building their own
+
+279
+00:21:12,248 --> 00:21:13,948
+agents now, right?
+
+280
+00:21:13,948 --> 00:21:21,128
+And then my investor, who this is like a billion and a half, huge fund, right?
+
+281
+00:21:21,128 --> 00:21:24,828
+His response, therefore, what do you build to make money?
+
+282
+00:21:27,924 --> 00:21:28,704
+Right?
+
+283
+00:21:28,704 --> 00:21:31,364
+Because I'm saying SAS is there, but also agents are there.
+
+284
+00:21:31,364 --> 00:21:34,484
+So it's like, how are you supposed to make money if you can't sell anything?
+
+285
+00:21:34,484 --> 00:21:36,164
+Like literally, you can't sell anything.
+
+286
+00:21:36,164 --> 00:21:38,624
+People are kind of building their own stuff.
+
+287
+00:21:41,104 --> 00:21:45,564
+My response is some things that are a lot more difficult than building agents.
+
+288
+00:21:45,984 --> 00:21:48,544
+But unclear what that's supposed to be.
+
+289
+00:21:49,764 --> 00:21:53,344
+even that, right?
+
+290
+00:21:53,344 --> 00:21:54,801
+Everything is kind of.
+
+291
+00:21:54,801 --> 00:22:00,911
+ah I mean, that's what the data centers are all about, right?
+
+292
+00:22:00,911 --> 00:22:05,979
+So agents are running, they need the data centers, and the harnesses.
+
+293
+00:22:05,979 --> 00:22:16,274
+I I I mean more the the the technical infrastructure for a company to set up their
+databases or SP servers.
+
+294
+00:22:16,274 --> 00:22:24,280
+I'm doing because I'm like, I don't want to work on things that are going to die, you
+know, or like not die, but it's like from a business pro.
+
+295
+00:22:24,280 --> 00:22:25,421
+perspective, right?
+
+296
+00:22:25,421 --> 00:22:31,593
+uh You know, the other thing, Patty is, you know, tied to jobs and employment, right?
+
+297
+00:22:31,593 --> 00:22:35,465
+What are people supposed to work on at the company if agents are doing everything?
+
+298
+00:22:35,465 --> 00:22:43,349
+And I've been saying for a while now, they need to be agent builders, and they need to be
+agent orchestrators, right?
+
+299
+00:22:43,349 --> 00:22:54,194
+So I think part of the whole thing is starting from training these companies uh and their
+employees to understand how to not just how to use AI, because sometimes you see like,
+
+300
+00:22:54,194 --> 00:22:55,474
+this training stuff out there.
+
+301
+00:22:55,474 --> 00:23:01,042
+It's like, look, this is the way to use Chatchi BT, create a project in Claude and this is
+to use core.
+
+302
+00:23:01,042 --> 00:23:05,747
+I'm like, this is just basic stuff, Table stakes.
+
+303
+00:23:05,782 --> 00:23:22,116
+that that's that's my biggest time suck right now is training our team weekly about how to
+and and I've chosen uh Claude as the harness to just get people to understand so trying to
+
+304
+00:23:22,116 --> 00:23:27,541
+flick between ten different tools that are constantly changing out of slightly different
+GUIs or interfaces.
+
+305
+00:23:27,541 --> 00:23:29,002
+Um
+
+306
+00:23:30,384 --> 00:23:39,452
+But it's a tricky position because well, obviously it's different for every kind of
+company, but as a service business, um, people work with us or people work with Paul
+
+307
+00:23:39,452 --> 00:23:45,307
+Street to work with our humans that we have that we build strategy for and manage their
+programs.
+
+308
+00:23:45,307 --> 00:23:52,554
+So we they don't want or they're not signing up to work with us to get some agentic
+workflow.
+
+309
+00:23:52,554 --> 00:23:55,356
+Um to also have to be cognizant of that.
+
+310
+00:23:55,356 --> 00:23:57,418
+But at the same time, there's a lot of
+
+311
+00:23:58,242 --> 00:24:11,960
+admin tasks or kind of like creating reports or pulling performance data to give feedback
+to the client or just tracking like sentiment that the team needs to understand and also
+
+312
+00:24:11,960 --> 00:24:15,052
+the team needs to at least understand how to use Claude.
+
+313
+00:24:15,492 --> 00:24:22,096
+Everyone that's a non-negotiable now it's been non-negotiable for a while.
+
+314
+00:24:22,617 --> 00:24:24,998
+But at the but separate to that I'm like
+
+315
+00:24:26,128 --> 00:24:31,924
+There's so many opportunities to build new agent first companies.
+
+316
+00:24:31,924 --> 00:24:38,771
+Even a service business, like again, like Paul Street will manage these different partner
+programs and across different scopes.
+
+317
+00:24:38,771 --> 00:24:43,937
+but I can't do that today because my clients don't want that.
+
+318
+00:24:43,937 --> 00:24:48,741
+So even if I even if I had a great solution and the whole team were just
+
+319
+00:24:49,422 --> 00:24:51,002
+Killer agent builders.
+
+320
+00:24:51,143 --> 00:24:57,368
+I I would say most of now I have some clients that are uh Cody John Road, I think would
+would appreciate that.
+
+321
+00:24:57,368 --> 00:25:02,791
+Um, but that's we probably have to renegotiate our our fee structure completely for that.
+
+322
+00:25:03,732 --> 00:25:12,258
+so I'm in a tricky spot where I'm thinking, okay, you can't build that natively internally
+without changing the whole
+
+323
+00:25:14,662 --> 00:25:18,985
+the the the the whole dynamic of how we work with clients.
+
+324
+00:25:19,626 --> 00:25:24,776
+But separately should there be a a a set like a a digital twin.
+
+325
+00:25:24,776 --> 00:25:28,893
+A lot of people talk about building digital twins of these companies or any company now.
+
+326
+00:25:30,208 --> 00:25:32,259
+The guys on the Moon Chats podcast talk about this a lot.
+
+327
+00:25:32,259 --> 00:25:38,684
+It's like they're mostly talking about like public companies talking about how to red team
+their tell you how to defend against the next five years.
+
+328
+00:25:38,684 --> 00:25:40,545
+How do you defend your company over the next five years?
+
+329
+00:25:40,545 --> 00:25:51,773
+Well, you should have a team of engineers or whatever you want to call four-deployed
+engineers maybe, to try to build a digital twin that replicates all the work that you do
+
+330
+00:25:51,773 --> 00:25:57,257
+at your company, but is just a agent-native or agent-centric.
+
+331
+00:25:58,936 --> 00:26:00,947
+So I've been thinking a lot about what that would look like.
+
+332
+00:26:00,947 --> 00:26:06,260
+And I think it would have to be in my the position I'm in is that would have to be a
+separate, almost a separate company.
+
+333
+00:26:06,260 --> 00:26:16,917
+Um and it would have to be talked very clearly to or positioned very clearly and
+transparently to any future clients or any even active clients that wanted to add on some
+
+334
+00:26:17,017 --> 00:26:21,410
+agentic services, because there's value there.
+
+335
+00:26:21,410 --> 00:26:25,242
+We have proprietary data in the work that we've done for the last
+
+336
+00:26:25,990 --> 00:26:31,233
+call it four years or whatever managing these uh programs uh for brands.
+
+337
+00:26:31,733 --> 00:26:40,138
+So but could we just have an MCP server that we can do a program audit of your affiliate
+uh program.
+
+338
+00:26:40,246 --> 00:26:45,891
+And we did you don't have to wait a week for our team to get around to the time to
+actually go through it.
+
+339
+00:26:45,891 --> 00:26:57,780
+We create the agent that reviews in the same way that our team does, and we have our uh
+playbooks, we have our skills that go around, add an MCP server, add a Paul Street
+
+340
+00:26:57,861 --> 00:27:00,563
+connector in Cloud.
+
+341
+00:27:00,563 --> 00:27:07,589
+And any brand can instead of having to go through our usual sales process and pay us
+
+342
+00:27:09,042 --> 00:27:19,868
+Like a hefty retainer and performance fees, we can figure out some other fee model where
+we will audit your account and then that could also be a funnel to okay, do you want to
+
+343
+00:27:19,868 --> 00:27:24,330
+actually talk to the team or do you want to build a more specific strategy or do you want
+the agent strategy?
+
+344
+00:27:24,390 --> 00:27:26,511
+And we should be giving the clients that choice.
+
+345
+00:27:26,511 --> 00:27:28,812
+Do you want do you want to work at agents or do you want to work with humans?
+
+346
+00:27:28,812 --> 00:27:30,433
+And there are two different paths.
+
+347
+00:27:30,573 --> 00:27:31,384
+One path is
+
+348
+00:27:31,384 --> 00:27:32,738
+thought about it like that.
+
+349
+00:27:33,006 --> 00:27:35,918
+Yeah, well well you will it work in a very different setup.
+
+350
+00:27:35,918 --> 00:27:47,488
+You you're building software, so you don't have to worry about like a lot of our but also
+a lot of our services are relationship like we're partner marketing agencies, so each of
+
+351
+00:27:47,488 --> 00:27:49,960
+the different scopes are different forms of relationships.
+
+352
+00:27:49,960 --> 00:27:57,585
+Um and that's I got I mean we got lucky that that's happens to be the service that we
+provide and is
+
+353
+00:27:58,886 --> 00:28:05,191
+It seems like it's defensible for even the short term, who knows what happens in the next
+two years.
+
+354
+00:28:06,212 --> 00:28:15,630
+but how we drive value to our clients is we have relationships with publications and we
+have relationships with different influencers and we relationships with all these
+
+355
+00:28:15,630 --> 00:28:25,248
+different types of partners that um are valuable, and we can put a strategy for our
+clients around uh who would be these good partners to work with, and then we manage those
+
+356
+00:28:25,248 --> 00:28:26,389
+relationships.
+
+357
+00:28:27,606 --> 00:28:30,777
+But that being said, there could be a digital twin created.
+
+358
+00:28:30,777 --> 00:28:38,739
+Um, I just can't do that in for my current clients because that's not what they sign up to
+us for.
+
+359
+00:28:38,739 --> 00:28:39,689
+They don't want that.
+
+360
+00:28:39,689 --> 00:28:40,600
+Or I don't think they want that.
+
+361
+00:28:40,600 --> 00:28:42,780
+Maybe they maybe some of them do when they see this.
+
+362
+00:28:42,780 --> 00:28:45,361
+We're like, hey, give us the Asian version.
+
+363
+00:28:45,361 --> 00:28:46,021
+But I don't think so.
+
+364
+00:28:46,021 --> 00:28:48,112
+They work with us for our humans.
+
+365
+00:28:48,152 --> 00:28:54,604
+So at the same time, I would need our employees to understand how to best leverage Claude
+in the right
+
+366
+00:28:56,619 --> 00:28:58,284
+for the right pieces of work.
+
+367
+00:28:59,458 --> 00:29:00,478
+but
+
+368
+00:29:03,744 --> 00:29:06,655
+the end goal actually isn't to agentify everything.
+
+369
+00:29:08,096 --> 00:29:10,538
+because that would defeat the purpose of what we do.
+
+370
+00:29:10,538 --> 00:29:12,519
+Um for now.
+
+371
+00:29:12,519 --> 00:29:16,881
+Again, this is things are moving pretty quickly in the world today.
+
+372
+00:29:16,881 --> 00:29:22,464
+So who knows what our clients will be saying to us in in by the end of the year.
+
+373
+00:29:22,544 --> 00:29:25,234
+But but yeah, that's something I think about a lot.
+
+374
+00:29:25,234 --> 00:29:26,254
+Um
+
+375
+00:29:30,136 --> 00:29:37,363
+But it does we're already seeing like a team our team saves a ton of time, which means
+they get to spend more time building the relationships with our partners or even getting
+
+376
+00:29:37,363 --> 00:29:39,185
+to get on more calls with our clients.
+
+377
+00:29:39,185 --> 00:29:40,045
+That's
+
+378
+00:29:40,189 --> 00:29:49,233
+when you give all these like boring, repetitive tasks to the agents so that humans work on
+more interesting, creative, strategic work.
+
+379
+00:29:49,233 --> 00:29:50,345
+That's more valuable.
+
+380
+00:29:50,345 --> 00:29:52,085
+to talk a lot about internally.
+
+381
+00:29:52,085 --> 00:29:56,066
+And I I think this I think you started this with with how this is gonna impact jobs as
+well.
+
+382
+00:29:56,066 --> 00:30:07,360
+Um and it's like uh and I have to be very vocal about when I talk internally to our
+employees of hey, we wanna 'cause a and different different roles are affected
+
+383
+00:30:07,360 --> 00:30:07,670
+differently.
+
+384
+00:30:07,670 --> 00:30:12,550
+We're like, Hey, you're really just focusing on um
+
+385
+00:30:12,550 --> 00:30:15,083
+Pulling information from here and creating a report for our client.
+
+386
+00:30:15,083 --> 00:30:18,006
+Like we wanna build a whole process to just make that easier.
+
+387
+00:30:18,006 --> 00:30:22,160
+And they might get scared, like, well that's like that's what I spend 90% of my time
+doing.
+
+388
+00:30:22,160 --> 00:30:32,210
+It's like, well, well yeah, then that that's that's that doesn't mean we're gonna fire
+you, it means we'll find other more valuable work for you to do.
+
+389
+00:30:32,210 --> 00:30:33,342
+and yeah.
+
+390
+00:30:33,342 --> 00:30:35,122
+difference between tasks and jobs, right?
+
+391
+00:30:35,122 --> 00:30:48,042
+So basically people kind of maybe psychologically tie their value to a series of tasks
+that they do, but the tasks don't define you as a professional.
+
+392
+00:30:48,042 --> 00:30:50,242
+The role might change, right?
+
+393
+00:30:50,242 --> 00:30:57,322
+So now certain tasks might be replaced by agents and they are getting replaced, but that
+doesn't mean the job is replaced, right?
+
+394
+00:30:57,322 --> 00:31:02,836
+So like the best companies, I think right now, don't think of using AI as a way to kind of
+
+395
+00:31:02,836 --> 00:31:12,823
+reduce headcount, they use it as a way to, how do we kind of like grow faster now without
+firing anybody really, you I mean, you see the layoffs, but at same time, you could think
+
+396
+00:31:12,823 --> 00:31:17,876
+of it in a more expansion mind frame as opposed to a contraction mind frame.
+
+397
+00:31:17,876 --> 00:31:29,654
+Expansion mind frame is that give all of these repetitive tasks to the AI agents and
+people can do more more interesting and more creative things that grows the business.
+
+398
+00:31:29,714 --> 00:31:34,308
+as opposed to like, let's try to cut costs by, you know, doing layoffs.
+
+399
+00:31:34,308 --> 00:31:36,149
+Yeah, yeah, yeah, yeah.
+
+400
+00:31:36,149 --> 00:31:36,739
+No.
+
+401
+00:31:36,759 --> 00:31:43,062
+yeah, we've no plans to to have any uh well, there'll be performance based layoffs for
+sure.
+
+402
+00:31:43,062 --> 00:31:45,803
+But um but we're growing.
+
+403
+00:31:45,803 --> 00:31:55,507
+So the plan is to just grow with having less headcount or like employee whatever the
+employee to re revenue ratio should in theory just continue to increase.
+
+404
+00:31:55,507 --> 00:32:03,210
+What's important in this in that dynamic is uh and this is something that took us or took
+me, I think
+
+405
+00:32:04,727 --> 00:32:18,289
+I'd say months to kind of work through and identify the right objective function to track
+the like the right metrics to be to be um focusing on at internally or at uh my comp or
+
+406
+00:32:18,289 --> 00:32:30,606
+our company where you want to you want to be able to measure success very clearly across
+many different metrics so that as you free up time you can clearly point to like
+
+407
+00:32:30,726 --> 00:32:32,807
+I'm sure every business has different versions of this.
+
+408
+00:32:32,807 --> 00:32:42,021
+Is like there's tasks that people that are in the weeds think that this isn't really
+important that we do it exactly this way, because they've been doing it for 18 months or
+
+409
+00:32:42,021 --> 00:32:43,372
+something.
+
+410
+00:32:43,372 --> 00:32:52,356
+Um, or if you introduce a whole new workflow for getting something done, they'll be like,
+no, it's that it's really important that we do it this way.
+
+411
+00:32:52,756 --> 00:32:56,858
+But if you you have to be able to clearly point to, well, no, here they're so we
+
+412
+00:32:57,382 --> 00:33:01,064
+Track EOS like ROX and SquareCard metrics.
+
+413
+00:33:01,265 --> 00:33:04,166
+The employee operating operational system.
+
+414
+00:33:04,166 --> 00:33:07,839
+But our entrepreneurial oper uh entrepreneurial operating system.
+
+415
+00:33:07,839 --> 00:33:15,974
+They you have to be able to clearly point to those metrics to say, okay, look, we're
+saving your time, and these metrics are actually going up.
+
+416
+00:33:15,974 --> 00:33:17,425
+We're getting more revenue for our clients.
+
+417
+00:33:17,425 --> 00:33:19,176
+We've onboarded more partners into the program.
+
+418
+00:33:19,176 --> 00:33:22,618
+Um there's more ROAS on in this program.
+
+419
+00:33:22,618 --> 00:33:31,923
+Like having all those clear identifiers to be able to then also speak to your team and
+say, no, this this new process is increasing these correct metrics or objective functions,
+
+420
+00:33:31,923 --> 00:33:46,662
+which also, if you're really building a digital twin or if you're building um any sort of
+agentic teams, as you know, uh the objective function is the most important the uh piece
+
+421
+00:33:46,662 --> 00:33:50,854
+for them to to iterate on and know what to validate as
+
+422
+00:33:51,127 --> 00:33:52,555
+as improvement.
+
+423
+00:33:53,853 --> 00:34:00,335
+So since we're talking about jobs, our second topic was uh Claude Cote and jobs.
+
+424
+00:34:00,335 --> 00:34:01,946
+So this is interesting.
+
+425
+00:34:01,946 --> 00:34:07,647
+uh Casey Newton interviewed Boris Cherny, creator and head of Claude Cote.
+
+426
+00:34:07,647 --> 00:34:09,208
+So Boris Cherny.
+
+427
+00:34:09,208 --> 00:34:12,429
+Funny thing, Ukrainian guy, he was born in Odessa.
+
+428
+00:34:12,429 --> 00:34:16,190
+ah My wife is Ukrainian and we met in Odessa.
+
+429
+00:34:16,283 --> 00:34:17,076
+Hello.
+
+430
+00:34:18,375 --> 00:34:20,217
+But I told her she was very pleased.
+
+431
+00:34:20,217 --> 00:34:22,759
+I'm like, this guy is the guy.
+
+432
+00:34:22,840 --> 00:34:28,044
+He created Claude code, which is like the best product in the world right now, literally.
+
+433
+00:34:28,185 --> 00:34:37,453
+So he was asked the question about what he thinks is going to happen, because he said,
+which is exactly what I do, he hasn't written a single line of code in six months.
+
+434
+00:34:38,414 --> 00:34:42,450
+And uh then Casey Newton is one of my...
+
+435
+00:34:42,450 --> 00:34:50,150
+favorite newsletter writers and podcasters, he asked him, like, what do you think is going
+to happen to engineers?
+
+436
+00:34:50,330 --> 00:35:01,350
+So he says that he predicts the title of software engineer could start to disappear by the
+end of 2026, which is like, oh, like, that's kind of scary.
+
+437
+00:35:01,350 --> 00:35:09,010
+But he his optimistic frame is that fewer traditional engineers, but many more people
+writing or shipping code through agents.
+
+438
+00:35:09,330 --> 00:35:11,470
+So it's kind of like changing.
+
+439
+00:35:11,730 --> 00:35:16,656
+ah Then he says that it's going to increase.
+
+440
+00:35:16,778 --> 00:35:20,210
+He said basically, it's going to be 100x.
+
+441
+00:35:20,390 --> 00:35:23,872
+the need for these kinds of builders than it is now.
+
+442
+00:35:23,872 --> 00:35:29,906
+So this is kind of like this abundance uh idea that Elon Musk is putting forward, right?
+
+443
+00:35:29,906 --> 00:35:38,342
+Which I'm usually having a hard time like trying to get my head around the idea of
+abundance where everybody has access to everything and everybody's rich and it's not
+
+444
+00:35:38,342 --> 00:35:41,223
+universal basic income, but it's like universal high income.
+
+445
+00:35:41,223 --> 00:35:44,495
+ah But I mean, like even the kind of listening to Boris.
+
+446
+00:35:44,495 --> 00:35:56,567
+the in the l in the long term or I kinda I guess follow that track of just like reduced
+cost of services and and and you'll get goods you'll receive goods and services much
+
+447
+00:35:56,567 --> 00:36:02,183
+cheaper so quality of life will be better so people will in theory live a more abundant
+life.
+
+448
+00:36:02,183 --> 00:36:09,946
+But I do think that's a long way away or I don't know how we really get there and I think
+there is a
+
+449
+00:36:10,790 --> 00:36:25,743
+uh a a a mid uh time frame or like call it the like two to five year what what happens in
+what are we in twenty what happens in twenty eight to to two thousand and thirty two I
+
+450
+00:36:25,743 --> 00:36:26,397
+don't know.
+
+451
+00:36:26,397 --> 00:36:35,160
+Um because there is 'cause cause and what Boris is saying is I also agree with that where
+yeah, all these every role is gonna change in some way.
+
+452
+00:36:35,160 --> 00:36:39,242
+Like how you do work or how you interact with a laptop, which is how a lot of
+
+453
+00:36:39,556 --> 00:36:49,771
+Sorry, let's qualify it by um kind of knowledge work for now, although physical AI is also
+something that I spend less time thinking about, but also will impact a lot of industries.
+
+454
+00:36:49,771 --> 00:36:54,914
+Um knowledge work will change, everyone's role will change.
+
+455
+00:36:54,914 --> 00:36:58,306
+Some people will benefit more than others, it's not going to change every role in the same
+way.
+
+456
+00:36:58,306 --> 00:37:03,327
+Um company structures are gonna change, like I just gave our example briefly.
+
+457
+00:37:04,760 --> 00:37:08,072
+And I think the quality of work will go up, or the quality of the service.
+
+458
+00:37:08,072 --> 00:37:17,687
+Like again, uh if I just look at our company, the quality should go up or if we're clearly
+tracking and c always improving the the work that gets done and we can do more with these
+
+459
+00:37:17,687 --> 00:37:26,472
+agents and with Clot and save time and have our humans spend more time building their
+relationships and have more time to do creative thinking about the right strategy to work
+
+460
+00:37:26,472 --> 00:37:28,703
+with our client or even spend more time with the client to understand them.
+
+461
+00:37:28,703 --> 00:37:30,284
+So the quality should should go up.
+
+462
+00:37:30,284 --> 00:37:32,425
+Um but I'll need to hire less.
+
+463
+00:37:32,425 --> 00:37:34,226
+We should be able to work with more.
+
+464
+00:37:34,778 --> 00:37:37,399
+brands um with less people.
+
+465
+00:37:38,220 --> 00:37:49,854
+Also there's gonna be people that don't adopt uh or are kind of slow adopters at our at
+our company or at any other company and and can't adapt or their role might completely
+
+466
+00:37:49,854 --> 00:37:52,585
+change and they have to learn a new skill and they
+
+467
+00:37:53,582 --> 00:38:03,099
+We're starting to see as well, which is seems to be mostly a US thing, but for negative
+sentiment around AI that they resist learning how to change their job.
+
+468
+00:38:03,099 --> 00:38:05,171
+And that's the worst spot to be in.
+
+469
+00:38:05,171 --> 00:38:09,514
+That is that's gonna be th they're gonna be the mo they're gonna be the worst affected
+people.
+
+470
+00:38:09,762 --> 00:38:10,095
+Yeah.
+
+471
+00:38:10,095 --> 00:38:11,095
+Yeah, yeah.
+
+472
+00:38:11,095 --> 00:38:11,876
+Just learn the skills.
+
+473
+00:38:11,876 --> 00:38:14,759
+If you if you ignore if you resist them, um
+
+474
+00:38:14,759 --> 00:38:15,639
+here's the way think about it.
+
+475
+00:38:15,639 --> 00:38:25,643
+Look, that to me is the most dangerous because what happens is, AI is gonna take my job,
+hence I won't learn it and I will slow down all efforts to embrace it.
+
+476
+00:38:25,643 --> 00:38:29,774
+And then because of that, AI would end up taking your job, you know?
+
+477
+00:38:29,774 --> 00:38:34,065
+It's like, don't, so up-skilling, look, think of it this way, Ferrari.
+
+478
+00:38:34,146 --> 00:38:38,434
+So if AI is leveling the playing field and giving everyone a Ferrari.
+
+479
+00:38:38,434 --> 00:38:40,867
+the their latest uh release?
+
+480
+00:38:40,867 --> 00:38:41,838
+on, don't derail it yet.
+
+481
+00:38:41,838 --> 00:38:43,388
+Well, we can get there too.
+
+482
+00:38:43,709 --> 00:38:45,249
+That whole design thing is a...
+
+483
+00:38:45,249 --> 00:38:48,741
+But the thing about a Ferrari is like, all right, everybody gets a Ferrari.
+
+484
+00:38:48,741 --> 00:38:52,993
+Like, Claude Opus 4.7 is a Ferrari and everybody has it now.
+
+485
+00:38:52,993 --> 00:39:00,376
+So right now they're subsidizing, broadly available.
+
+486
+00:39:00,696 --> 00:39:04,777
+But the thing is, the way I drive a Ferrari versus...
+
+487
+00:39:04,838 --> 00:39:06,498
+I mean, you work with Formula One, right?
+
+488
+00:39:06,498 --> 00:39:08,099
+Give me one driver name.
+
+489
+00:39:08,398 --> 00:39:12,045
+One dri four Ferrari, the Lewis Hamilton and and Charles Le Kirk.
+
+490
+00:39:13,270 --> 00:39:14,311
+Charles.
+
+491
+00:39:15,435 --> 00:39:16,489
+Sure, Lewis, yeah.
+
+492
+00:39:16,489 --> 00:39:24,732
+even if we both have access to the same Ferrari, like I get into that car, like the only
+thing I know how to do is just to press on the gas pedal.
+
+493
+00:39:24,732 --> 00:39:25,943
+And you know what I mean?
+
+494
+00:39:25,943 --> 00:39:29,224
+Like who's driving that Ferrari makes such a big difference.
+
+495
+00:39:29,224 --> 00:39:32,015
+So like, and who's driving it is all skill.
+
+496
+00:39:32,795 --> 00:39:33,025
+Right?
+
+497
+00:39:33,025 --> 00:39:39,482
+That's why if you look at the Clickups, layoffs, the guy said that, or like we're laying
+off a bunch of people, but then we're increasing the salaries of a bunch of people to a
+
+498
+00:39:39,482 --> 00:39:40,763
+million dollars.
+
+499
+00:39:41,925 --> 00:39:47,811
+Like that's the good for our drivers versus people who barely know how to use it.
+
+500
+00:39:47,811 --> 00:39:55,331
+if everyone tomorrow gets given a f like uh if someone gives me a Formula One car
+tomorrow, like zero chance we're able to drive that.
+
+501
+00:39:55,331 --> 00:40:01,508
+And if I say this is dumb, this is the worst the the f F one cars are are
+
+502
+00:40:01,584 --> 00:40:04,736
+Placing our jobs or taking our our jobs as drivers.
+
+503
+00:40:04,736 --> 00:40:05,867
+Like I'm not getting that.
+
+504
+00:40:05,867 --> 00:40:07,898
+I'll never be able to learn how to drive it.
+
+505
+00:40:08,358 --> 00:40:16,093
+Or I could like spend a bit of time and say, Hey Lewis, like can you give us a few lessons
+and teach me how to like it'd be pretty cool to know how to drive this Ferrari or drive
+
+506
+00:40:16,093 --> 00:40:16,964
+this Formula One car.
+
+507
+00:40:16,964 --> 00:40:20,555
+Uh yeah.
+
+508
+00:40:20,555 --> 00:40:21,295
+craft matters, right?
+
+509
+00:40:21,295 --> 00:40:23,015
+Learning how to do something really well.
+
+510
+00:40:23,015 --> 00:40:29,135
+I mean, look, you know, we work with all the same tools and they create an output that
+looks pretty good.
+
+511
+00:40:29,255 --> 00:40:30,475
+You know, it looks pretty good.
+
+512
+00:40:30,475 --> 00:40:31,175
+And you're like, you know what?
+
+513
+00:40:31,175 --> 00:40:31,815
+Like it's done.
+
+514
+00:40:31,815 --> 00:40:32,535
+It's done.
+
+515
+00:40:32,535 --> 00:40:35,375
+Like I don't need anybody, but it's like 80 % done.
+
+516
+00:40:35,375 --> 00:40:38,015
+And there's like a 20 % that you still have to do.
+
+517
+00:40:38,015 --> 00:40:43,875
+And there in order for it to be usable, like even, like it creates like an ad asset or
+something.
+
+518
+00:40:43,875 --> 00:40:47,815
+Like it looks like pretty good, but then you're like, oh, but I can't use it.
+
+519
+00:40:47,815 --> 00:40:48,519
+It's missing.
+
+520
+00:40:48,519 --> 00:40:55,778
+a few things, but getting that a few things, a skill, you know, how to do it right, how to
+do it perfectly.
+
+521
+00:40:56,032 --> 00:41:08,743
+yeah, that's actually another like important point and something I'm seeing as I try to
+get our team s upskilled or understand how to use even just cowork.
+
+522
+00:41:09,264 --> 00:41:11,465
+And I think you kind of alluded to it
+
+523
+00:41:13,946 --> 00:41:29,741
+or how the job changes, and I guess this comes from the top and how we kind of um instruct
+people to work with AI, is it should only be helping you to helping you to to do the work.
+
+524
+00:41:29,741 --> 00:41:35,592
+So let's say an example of I don't know a common one of like creating a document.
+
+525
+00:41:35,593 --> 00:41:40,036
+And if it's creating a document for you, whether it's internal use or external use, um
+
+526
+00:41:40,036 --> 00:41:43,887
+It should be helping you create that document, but you should know everything.
+
+527
+00:41:43,887 --> 00:41:46,755
+You should be treating it as as you're you're the one creating that.
+
+528
+00:41:46,755 --> 00:41:48,629
+You're the owner of that document.
+
+529
+00:41:48,666 --> 00:41:57,077
+Whatever's in that is yours, and if it's if part of it is AI slop, you better understand
+that and change it so that it's not or tweak it and actually craft it.
+
+530
+00:41:57,077 --> 00:41:58,449
+And that's the skill part.
+
+531
+00:41:58,449 --> 00:42:07,442
+You have to create, like I can create better documents than I could ever have created, but
+I still own that it's a document I'm creating, and I will tweak it till I'm happy with
+
+532
+00:42:07,442 --> 00:42:08,332
+that document.
+
+533
+00:42:08,332 --> 00:42:14,473
+Versus some people that are like using these tools for the first time, like, yeah, I got
+to create this thing for me, but it looks stupid.
+
+534
+00:42:15,910 --> 00:42:18,370
+And it's like, yeah, it does look stupid, so like work on it.
+
+535
+00:42:18,370 --> 00:42:19,583
+Uh make it better.
+
+536
+00:42:19,583 --> 00:42:20,558
+Uh edit it.
+
+537
+00:42:20,558 --> 00:42:25,085
+Like put it into Google Docs and and edit it with your keyboard.
+
+538
+00:42:25,085 --> 00:42:25,626
+I don't know.
+
+539
+00:42:25,626 --> 00:42:29,712
+Like use Whisper to to uh change your paragraphs, like remove the ASOP.
+
+540
+00:42:29,712 --> 00:42:31,334
+Um
+
+541
+00:42:31,650 --> 00:42:40,917
+And but the so that that role of working with or the important part of knowing how to
+drive the Ferrari is like it can help it can gather much more information, it can have
+
+542
+00:42:40,917 --> 00:42:51,054
+much more context, it can uh connect into all your different tools and data sources to
+understand what you're doing, but you still need to craft the output and you still need to
+
+543
+00:42:51,054 --> 00:42:53,596
+review and understand how to review that output.
+
+544
+00:42:53,596 --> 00:42:58,236
+Um and then you also have to like iterate that over time so it gets better at creating the
+output for you.
+
+545
+00:42:58,236 --> 00:43:05,306
+so I think in the past, uh we expected.
+
+546
+00:43:05,939 --> 00:43:08,420
+a certain level of quality from work.
+
+547
+00:43:08,420 --> 00:43:11,102
+We accepted it as well.
+
+548
+00:43:11,102 --> 00:43:13,272
+But now I think everybody's standards went up.
+
+549
+00:43:13,272 --> 00:43:15,774
+So like right now, pretty good is the bottom line.
+
+550
+00:43:15,774 --> 00:43:24,898
+So like in the past, you would have paid someone to produce pretty good results, pretty
+good design, pretty good code, pretty good PowerPoint documentation, like whatever you're
+
+551
+00:43:24,898 --> 00:43:26,289
+paying people for, right?
+
+552
+00:43:26,289 --> 00:43:29,400
+But now that's no longer acceptable, right?
+
+553
+00:43:29,400 --> 00:43:34,312
+Because you can one shot a pretty good result from these AI tools.
+
+554
+00:43:34,312 --> 00:43:35,716
+And then you think,
+
+555
+00:43:35,716 --> 00:43:40,052
+as a business owner, you're like, why should I pay anyone if I can just do this myself?
+
+556
+00:43:40,052 --> 00:43:51,848
+So what happens now is pretty good is what you get, but you can get to great by having a
+skilled.
+
+557
+00:43:52,688 --> 00:43:57,050
+AI-pilled person who knows how to drive that Ferrari and get the pretty good to great.
+
+558
+00:43:57,050 --> 00:44:06,134
+So then great becomes now a sellable thing that you can charge money for and pretty good
+is free or at least cheap because AI is making it pretty good.
+
+559
+00:44:06,134 --> 00:44:07,915
+So that's how I think things are shifting.
+
+560
+00:44:07,915 --> 00:44:18,279
+Like basically quality of anything, quality of movies, design, code, documents, any kind
+of output that's produced by humans, it just needs to be great now because it's not
+
+561
+00:44:18,279 --> 00:44:19,270
+starting from zero.
+
+562
+00:44:19,270 --> 00:44:20,700
+It's not starting from a blank slate.
+
+563
+00:44:20,700 --> 00:44:22,581
+It's starting from, okay, so this is the draft that
+
+564
+00:44:22,581 --> 00:44:25,921
+I got from AI, that's OK.
+
+565
+00:44:25,921 --> 00:44:31,736
+I can't send this to the customer, but I can make that awesome by putting my skill into
+it.
+
+566
+00:44:31,736 --> 00:44:34,267
+So that's how I kind of feel about how things have changed.
+
+567
+00:44:34,350 --> 00:44:35,190
+Yeah, and same thing.
+
+568
+00:44:35,190 --> 00:44:45,495
+Like we're hiring a bunch of roles at the moment and in every one of my conversations I'm
+like, hey, so what you how are you working with with Claude or AI?
+
+569
+00:44:45,495 --> 00:44:48,936
+What's your what's your stack or like that has that has to be a talking point.
+
+570
+00:44:48,936 --> 00:44:52,687
+Um it's very Yeah, yeah, yeah.
+
+571
+00:44:52,687 --> 00:44:54,867
+interview process of some of the cool startups.
+
+572
+00:44:54,867 --> 00:44:59,847
+They're like, hey, we just give them, show me how you use Cloud Code to build this thing.
+
+573
+00:45:00,238 --> 00:45:12,589
+Yeah, which is another form of the um I think what's important is yeah, if you you send a
+project like it's okay, well well, how can you best how can you drive the Ferrari?
+
+574
+00:45:12,589 --> 00:45:13,710
+Show me how you drive the Ferrari.
+
+575
+00:45:13,710 --> 00:45:15,872
+Here's the project, show me how you drive it.
+
+576
+00:45:16,613 --> 00:45:22,358
+doesn't matter how you got there, I don't care if you hand wrote a Google Doc about some
+
+577
+00:45:24,440 --> 00:45:31,295
+some question I asked you or some project that I gave you, if you hand built it, I I just
+wanna see how good how how fast you can get around the track.
+
+578
+00:45:31,295 --> 00:45:36,089
+Um if you can get around the track the same as Lewis Hamilton then fantastic.
+
+579
+00:45:36,089 --> 00:45:45,585
+If if it takes you twice as long but you're like, I spent I spent all night working on
+this, it's like, well, I'd rather you can just get around the track really quickly.
+
+580
+00:45:45,889 --> 00:45:50,033
+All right, next topic, super fun.
+
+581
+00:45:50,033 --> 00:45:50,971
+I saw this yesterday.
+
+582
+00:45:50,971 --> 00:45:52,796
+I was like, I got to try this.
+
+583
+00:45:52,796 --> 00:45:57,600
+So Robin Hood is now allowing you.
+
+584
+00:45:58,067 --> 00:46:00,998
+to do trading through your AI agents.
+
+585
+00:46:00,998 --> 00:46:05,640
+So the Verge reporter Robinhood is opening its trading platform to AI agents.
+
+586
+00:46:05,960 --> 00:46:10,882
+The announcement says users can connect agents through AI native MCP servers.
+
+587
+00:46:11,242 --> 00:46:15,884
+It's launching in beta with equities first, options, crypto, event contracts, futures.
+
+588
+00:46:15,944 --> 00:46:23,027
+And then uh there's an agent to credit card that lets agents spend through a dedicated
+virtual card.
+
+589
+00:46:23,687 --> 00:46:26,228
+And I am super intrigued.
+
+590
+00:46:26,280 --> 00:46:28,575
+Patty, what do you think about this thing?
+
+591
+00:46:29,490 --> 00:46:29,890
+yeah.
+
+592
+00:46:29,890 --> 00:46:38,813
+I mean it's so what I do at the moment, what I do today is I have a project in cowork, I
+think.
+
+593
+00:46:38,813 --> 00:46:41,514
+Claude am I personal Claude Cowork?
+
+594
+00:46:41,514 --> 00:46:47,356
+which has any like my positions I have, knows about me, knows what my kind of um goals
+are.
+
+595
+00:46:47,356 --> 00:46:53,458
+And I just talk to that about so the main thing that I track for any public equities I
+hold are mostly
+
+596
+00:46:54,712 --> 00:47:03,409
+AI infrastructure and specifically just based on what Leopold Hashbrenner is buying in in
+situational awareness.
+
+597
+00:47:03,630 --> 00:47:06,833
+So he that's a hedge fund, uh you should look it up.
+
+598
+00:47:06,833 --> 00:47:07,653
+It's
+
+599
+00:47:08,016 --> 00:47:15,348
+He was an early OpenAI researcher and got fired for having an argument about safety with
+Sam.
+
+600
+00:47:15,348 --> 00:47:20,270
+But he then wrote these papers, Situational Awareness, that went viral.
+
+601
+00:47:20,270 --> 00:47:27,572
+And they were like PhD grade kind of detailed papers about the infrastructure that was
+required for the world ahead of us.
+
+602
+00:47:27,572 --> 00:47:32,673
+I think that was maybe in like two years ago, maybe 2024.
+
+603
+00:47:33,054 --> 00:47:34,134
+But anyway,
+
+604
+00:47:34,994 --> 00:47:45,494
+Yeah, when he I think he was twenty two or three maybe at the time, after the papers
+announced he's starting a hedge fund based on that thesis of the papers that he wrote.
+
+605
+00:47:45,494 --> 00:47:50,020
+I think he raised like a billion or two billion as a twenty-three year old.
+
+606
+00:47:50,020 --> 00:48:02,345
+And today the the Q one um the Q one thirteen F filings were the latest that came out, um
+like a week or two ago, he's up to thirteen point seven billion is the AUM of the fund
+
+607
+00:48:04,534 --> 00:48:08,366
+And if you look at the positions, like the performance of them has been insane.
+
+608
+00:48:08,366 --> 00:48:19,061
+Um so I'll just I'll I'll I'll link to the thirteen F filings every time and they build
+them up in my um cloud project so it knows and then I take screenshots of my positions, et
+
+609
+00:48:19,061 --> 00:48:19,331
+cetera.
+
+610
+00:48:19,331 --> 00:48:24,094
+Uh and then also I listen to other thing, other podcasts or or whatever.
+
+611
+00:48:24,094 --> 00:48:28,686
+On on all in they'll be talking about some something and I'll I'll
+
+612
+00:48:28,974 --> 00:48:31,456
+It and I'll say, okay, yeah, I agree with this, I don't agree with that.
+
+613
+00:48:31,456 --> 00:48:33,877
+What happens in this future scenario?
+
+614
+00:48:33,877 --> 00:48:36,318
+Like, how will this impact my portfolio?
+
+615
+00:48:36,378 --> 00:48:41,822
+Help me help me think through the potential impacts that this will have on my portfolio.
+
+616
+00:48:41,822 --> 00:48:44,563
+And I just use it as almost like a resource partner, I guess.
+
+617
+00:48:44,563 --> 00:48:49,656
+Um, and it gives it just gives really good insights.
+
+618
+00:48:49,656 --> 00:48:52,891
+And it's like, okay, so that's how gold would be impacted if
+
+619
+00:48:52,891 --> 00:48:54,994
+it to do trades on your behalf?
+
+620
+00:48:57,252 --> 00:48:58,103
+I mean I'll probably test.
+
+621
+00:48:58,103 --> 00:49:00,794
+I I only saw this when you when you sent it through.
+
+622
+00:49:00,794 --> 00:49:01,485
+I'll probably test it.
+
+623
+00:49:01,485 --> 00:49:10,030
+I don't I don't use I use Robinode because it's the best like UI for like tracking things,
+but my that's not where I uh make any investments.
+
+624
+00:49:10,030 --> 00:49:15,974
+Um but I'll probably put in like I don't know, a couple thousand dollars and see what
+happens just out of fun.
+
+625
+00:49:15,974 --> 00:49:20,157
+Um I would test it, yeah, I would test it.
+
+626
+00:49:20,157 --> 00:49:22,358
+But I'm probably not gonna
+
+627
+00:49:23,866 --> 00:49:30,172
+That's not gonna be I I w I I don't know, I wouldn't want that to be my uh like cash.
+
+628
+00:49:30,445 --> 00:49:30,946
+Yeah, yeah.
+
+629
+00:49:30,946 --> 00:49:32,847
+No, so they allow you to create it.
+
+630
+00:49:32,847 --> 00:49:34,218
+think that's what they do.
+
+631
+00:49:34,218 --> 00:49:39,865
+They allow you to create a separate account just for the agent and
+
+632
+00:49:39,865 --> 00:49:44,987
+just use my main like I don't have money in like my Robin account really.
+
+633
+00:49:44,987 --> 00:49:48,474
+So I just y well yeah, it doesn't that doesn't make much odds.
+
+634
+00:49:48,474 --> 00:49:49,626
+So, all right.
+
+635
+00:49:49,626 --> 00:49:52,041
+So you feel you want to try this?
+
+636
+00:49:52,041 --> 00:49:56,139
+Are there things like, are there models out there like that?
+
+637
+00:49:56,139 --> 00:49:57,316
+Because I don't have a model.
+
+638
+00:49:57,316 --> 00:49:59,337
+again, I don't I haven't looked at exactly how it works.
+
+639
+00:49:59,337 --> 00:50:01,048
+Like why how much info do you give it?
+
+640
+00:50:01,048 --> 00:50:06,581
+Like I would probably just tell it to track Leopold and or track Situational Awareness
+Hedge Fund.
+
+641
+00:50:06,581 --> 00:50:09,652
+Uh or maybe I'd ask it to hedge against that.
+
+642
+00:50:09,652 --> 00:50:10,152
+I don't know.
+
+643
+00:50:10,152 --> 00:50:20,817
+Um that's the other thing that's interesting, like stuff that I would never come close to
+in terms of uh equities that I that I own is like these short positions.
+
+644
+00:50:20,817 --> 00:50:22,042
+Um
+
+645
+00:50:22,042 --> 00:50:35,543
+Where Leopold has these shorts that make a lot of sense because um he'll short, for
+example, the like a chip ETF, which uh so I think a lot about this 'cause whatever I'm
+
+646
+00:50:35,543 --> 00:50:37,535
+saying it anyway.
+
+647
+00:50:38,056 --> 00:50:41,518
+so i i if there because like prices are at all time highs, right?
+
+648
+00:50:41,518 --> 00:50:45,902
+There probably is gonna be a eh a
+
+649
+00:50:46,128 --> 00:50:52,338
+drop you imagine that some of the like some of these companies have got like sand disk is
+up I think twelve hundred percent or something in the last year.
+
+650
+00:50:52,338 --> 00:50:56,724
+Uh which is great because Leopold had it in his fund so I bought it like six months ago.
+
+651
+00:50:56,724 --> 00:51:04,727
+But uh I have no idea I've I used to work in in finance but I'm not spending enough time
+to go in detail about how does this price really make sense?
+
+652
+00:51:05,728 --> 00:51:09,510
+like and and what happens if uh
+
+653
+00:51:10,374 --> 00:51:12,878
+Doesn't get wrapped up, like that's a big moving piece.
+
+654
+00:51:12,878 --> 00:51:24,378
+Um so what Leopold has in the fund is he has like shorts against uh the ship companies,
+because I think his thesis is that a lot of them are overvalued or like um have been.
+
+655
+00:51:24,934 --> 00:51:35,147
+very bullish on on NVIDIA, um which y as you should be and and I'm I'm bullish on NVIDIA
+but but the but if you look at his whole fund, the thirteen and what that's what hedge
+
+656
+00:51:35,147 --> 00:51:35,787
+funds do, right?
+
+657
+00:51:35,787 --> 00:51:38,198
+They have long and short positions to hedge against risk.
+
+658
+00:51:38,198 --> 00:51:49,191
+Um so I think he's long on most of these AI companies and then he has short positions on
+the chip companies 'cause he thinks in a in a bubble or correction or Iran war breaks out
+
+659
+00:51:49,191 --> 00:51:50,274
+or whatever again.
+
+660
+00:51:50,274 --> 00:51:51,162
+Um
+
+661
+00:51:51,162 --> 00:51:55,745
+He thinks that those chip companies will be affected more than the than his long
+positions.
+
+662
+00:51:55,745 --> 00:51:56,545
+So that's his hedge.
+
+663
+00:51:56,545 --> 00:51:58,547
+That's his hedge.
+
+664
+00:51:58,547 --> 00:52:05,851
+But what I'm saying is what I'm saying is how I work with Claude then is like I'm never
+gonna spend the time to put on my own short position or understand the different like
+
+665
+00:52:05,851 --> 00:52:07,452
+price targets that I want to put in.
+
+666
+00:52:07,452 --> 00:52:11,354
+But now I can talk to it and say, hey, I see Leopold has this position.
+
+667
+00:52:11,354 --> 00:52:13,536
+How can I do something similar in my portfolio?
+
+668
+00:52:13,536 --> 00:52:15,216
+yeah, let's do it on Oracle.
+
+669
+00:52:15,357 --> 00:52:17,658
+Oracle like it's probably overvalued a bit.
+
+670
+00:52:17,742 --> 00:52:24,037
+So I like talk me through how exactly to place the short position on Oracle um and and
+
+671
+00:52:26,020 --> 00:52:28,172
+That I'm aiming for and how I should think about it.
+
+672
+00:52:28,172 --> 00:52:29,593
+And talk through through it step by step.
+
+673
+00:52:29,593 --> 00:52:31,655
+And then I can place that bet.
+
+674
+00:52:31,655 --> 00:52:33,156
+I think about all these things as bets, right?
+
+675
+00:52:33,156 --> 00:52:34,456
+So it's just a gambling.
+
+676
+00:52:34,456 --> 00:52:35,056
+this then.
+
+677
+00:52:35,056 --> 00:52:42,676
+Let's both create agent accounts in Robinhood, put a little bit money in it and have it
+start.
+
+678
+00:52:43,436 --> 00:52:44,556
+Oh, I like that.
+
+679
+00:52:44,556 --> 00:52:50,043
+Let's have them compete and then let's see where they are like next time we do the podcast
+recording.
+
+680
+00:52:50,043 --> 00:52:52,430
+your agent to buy NVIDIA only?
+
+681
+00:52:52,430 --> 00:52:53,460
+No, no.
+
+682
+00:52:55,002 --> 00:53:00,402
+I think obviously, you know, for me, it's just like my personal investment is very long
+term, right?
+
+683
+00:53:00,402 --> 00:53:01,946
+I'm like, I'm not going to ever touch it.
+
+684
+00:53:01,946 --> 00:53:04,807
+Like Warren Buffett style, like do nothing.
+
+685
+00:53:06,168 --> 00:53:08,910
+You know, but this one is play money.
+
+686
+00:53:09,510 --> 00:53:12,912
+So let's put like a little bit, not too much, right?
+
+687
+00:53:12,973 --> 00:53:15,854
+And then I have to come up with some kind of a model.
+
+688
+00:53:15,854 --> 00:53:18,876
+Like it seems like you kind of have a little bit of your own model there.
+
+689
+00:53:18,876 --> 00:53:20,138
+I don't have anything like that.
+
+690
+00:53:20,138 --> 00:53:22,882
+ah But it needs to do some trading, right?
+
+691
+00:53:22,882 --> 00:53:25,827
+So maybe some shorting, you know.
+
+692
+00:53:25,827 --> 00:53:33,177
+So yeah, I don't know yet, but I'm curious about this because I feel like by not doing it,
+we might be leaving some money on the table.
+
+693
+00:53:33,558 --> 00:53:34,619
+I don't know.
+
+694
+00:53:35,278 --> 00:53:45,042
+Well, that's the one thing that I'm it's the only reason that as as of the belief as a
+founder or as some like having any of these investments is a distraction.
+
+695
+00:53:45,042 --> 00:53:52,726
+Um I still believe believe that I kinda takes up mind share and that mind share is better
+spent building a company.
+
+696
+00:53:52,726 --> 00:53:57,828
+Um like the ROI's better on spending that time, so I believe that to be true.
+
+697
+00:53:57,828 --> 00:54:02,180
+But at the same time, I think we're at a very specific time in history where a lot of
+
+698
+00:54:02,180 --> 00:54:07,853
+these companies and equities are going to like take off.
+
+699
+00:54:07,853 --> 00:54:12,395
+If you if you believe Elon's normally directionally correct.
+
+700
+00:54:12,576 --> 00:54:21,771
+If he's talking about triple digit GDP growth in the next ten years, that's something
+that's never been seen before and there will be specific winners um and specific equities
+
+701
+00:54:21,771 --> 00:54:22,681
+that don't win in that.
+
+702
+00:54:22,681 --> 00:54:27,034
+So I'm like, okay, I need to just at least have positions across the market.
+
+703
+00:54:27,034 --> 00:54:31,491
+So I probably have whatever twenty different positions.
+
+704
+00:54:31,491 --> 00:54:32,483
+game, we're going to play this.
+
+705
+00:54:32,483 --> 00:54:35,056
+uh So next one, a topic that we had.
+
+706
+00:54:35,056 --> 00:54:37,710
+So this is an interesting revelation that I had last week.
+
+707
+00:54:37,710 --> 00:54:40,183
+So Patty, do you use Claude code for anything?
+
+708
+00:54:40,183 --> 00:54:43,457
+What are you using it for?
+
+709
+00:54:44,029 --> 00:54:52,978
+the last so I use it less at the moment 'cause like I said, my main like focus is just
+getting the team up to speed, which was mostly then around just using cowork.
+
+710
+00:54:52,978 --> 00:55:03,598
+But like when Opus four point six first came out and or was first like added in, which I
+think was like December, um, so when I got back like in January, February I was
+
+711
+00:55:03,980 --> 00:55:07,442
+spending a lot of late nights just in the cloud code.
+
+712
+00:55:07,442 --> 00:55:15,415
+Especially for someone like me that I've never I have a background's engineering or
+whatever, I studied engineering but never worked as never never wrote any code in my
+
+713
+00:55:15,415 --> 00:55:15,895
+career.
+
+714
+00:55:15,895 --> 00:55:19,357
+I worked in finance and then uh fintech startups.
+
+715
+00:55:19,757 --> 00:55:21,568
+so never wrote any code.
+
+716
+00:55:21,568 --> 00:55:29,641
+But then O Opus four point six and I tried cloud code before that and it was like I get
+these like pieces of code but I couldn't actually use anything with them.
+
+717
+00:55:30,458 --> 00:55:41,751
+then yeah January is like oh like the code that it's spitting out is actually like and not
+not just code but then also setting up the different databases or pieces of infrastructure
+
+718
+00:55:41,751 --> 00:55:50,661
+and talking you through step by step what's required to I'll just send it a screenshot of
+like a website or a tool and say, hey, they help me make this tool.
+
+719
+00:55:50,926 --> 00:55:54,208
+then spend like three nights, two or three nights.
+
+720
+00:55:54,208 --> 00:55:57,239
+Uh and this was also before they had the auto accept.
+
+721
+00:55:57,239 --> 00:56:02,291
+So you'd really just be sitting there like a monkey pressing accept, accept, yeah, accept.
+
+722
+00:56:02,872 --> 00:56:03,592
+Yeah.
+
+723
+00:56:03,592 --> 00:56:05,133
+Yeah, yeah.
+
+724
+00:56:05,133 --> 00:56:08,014
+Well now now I haven't done that in a long time.
+
+725
+00:56:08,014 --> 00:56:16,624
+But but yeah, I rebuilt like there was a like an affiliate tracking dashboard, because all
+of our clients use different like affiliate platforms, so we kind of work
+
+726
+00:56:16,624 --> 00:56:25,378
+Between them all, then there's then there's a uh like Athluent is is a is a dashboard that
+can connect, but it's really just a connects APIs to all the different Faye dashboards.
+
+727
+00:56:25,640 --> 00:56:34,164
+But we pay the account, a lot of our clients pay for these different accounts, and it's
+like non-trivial amounts we have, whatever 40-something clients.
+
+728
+00:56:35,666 --> 00:56:39,698
+is I was like, that that should be pretty easy to just rebuild.
+
+729
+00:56:39,698 --> 00:56:41,289
+I'll just do it as a test.
+
+730
+00:56:41,729 --> 00:56:43,452
+But like that's a lot of
+
+731
+00:56:43,542 --> 00:56:45,503
+should be a lot of work, or is a lot of work.
+
+732
+00:56:45,503 --> 00:56:50,606
+And like to build the actual interface, the UI, the the connections, make sure the data's
+flowing correctly.
+
+733
+00:56:50,626 --> 00:56:59,091
+But I just kept screenshot, s screenshot of what the data should be, uh fix this, do that.
+
+734
+00:56:59,372 --> 00:57:05,295
+And yeah, a couple of days, had a because it w it said it to one of my my clients.
+
+735
+00:57:05,295 --> 00:57:09,017
+Um if they're interested and they're like, Yeah, this would be pretty cool.
+
+736
+00:57:09,137 --> 00:57:10,478
+Just did it with them.
+
+737
+00:57:11,062 --> 00:57:15,892
+And created a full dashboard that just connected to the same API keys, the same setup.
+
+738
+00:57:15,892 --> 00:57:17,454
+Um
+
+739
+00:57:19,376 --> 00:57:20,807
+fully functional.
+
+740
+00:57:21,287 --> 00:57:27,703
+the the first few iterations were were not like the data wouldn't flow correctly or
+there's different like timestamps that needed to be changed, the database structure needed
+
+741
+00:57:27,703 --> 00:57:33,692
+to be updated, but by taking screenshots, which I think that was a huge unlock when I
+realized that.
+
+742
+00:57:33,692 --> 00:57:43,606
+I can't remember what podcast I someone talked about that on, it's probably bar pars, but
+screenshots, something not working, take a screenshot of either the the
+
+743
+00:57:43,640 --> 00:57:47,794
+interface or just the code and say like I don't know what's happening here, this is
+broken.
+
+744
+00:57:47,794 --> 00:57:52,037
+Screenshot gives us all the context and goes off and fixes it.
+
+745
+00:57:52,398 --> 00:57:58,482
+But that being said, I also I was like, okay, this is great.
+
+746
+00:57:59,223 --> 00:58:03,217
+But probably doesn't make sense to like switch over to this dashboard.
+
+747
+00:58:03,217 --> 00:58:03,907
+Not yet.
+
+748
+00:58:03,907 --> 00:58:05,128
+That's a that's a whole nother thing.
+
+749
+00:58:05,128 --> 00:58:08,881
+Like I'd have to have someone maintain that as you know as a as a software builder.
+
+750
+00:58:08,881 --> 00:58:11,678
+That's like maintenance is the biggest like overhead.
+
+751
+00:58:11,678 --> 00:58:12,510
+real.
+
+752
+00:58:13,006 --> 00:58:14,868
+Uh yeah, yeah, exactly, yeah.
+
+753
+00:58:14,868 --> 00:58:17,326
+So I was like, my client was like so we will we move to this now?
+
+754
+00:58:17,326 --> 00:58:21,953
+And was like, no, this was just like this was just an experiment, really.
+
+755
+00:58:21,953 --> 00:58:26,217
+Um and the experiment worked, but like I have to go back to work.
+
+756
+00:58:26,386 --> 00:58:29,820
+We're not uh not in the business of us building these.
+
+757
+00:58:31,502 --> 00:58:32,362
+Yeah.
+
+758
+00:58:32,362 --> 00:58:36,846
+I'll use it for so I have like um let's say all of my finance um
+
+759
+00:58:36,846 --> 00:58:39,428
+Obviously I well not obviously but I look after all our finances.
+
+760
+00:58:39,428 --> 00:58:48,936
+So um I have it connected into like the com into the Mercury and then we separately have
+our own like our accountants do our like run our books, close our books.
+
+761
+00:58:48,936 --> 00:58:57,426
+Um so we have call it two entities with different like PLs and revenue and expense files.
+
+762
+00:58:57,426 --> 00:59:04,654
+So we probably have like six different Excel files that we built over last three years
+that that capture the information specifically how we
+
+763
+00:59:04,654 --> 00:59:05,654
+To look at it.
+
+764
+00:59:06,356 --> 00:59:16,574
+so I put all that into claw code and create a dashboard that one well, one it connects
+into so it's a combination of Mercury and Bill.com.
+
+765
+00:59:16,574 --> 00:59:17,354
+I think this is the two of them.
+
+766
+00:59:17,354 --> 00:59:27,843
+Because QuickBooks didn't make sense because we want the the closed files, like the
+revenue file, the expense file, the operating cost file, all those files to be the source
+
+767
+00:59:27,843 --> 00:59:28,533
+of.
+
+768
+00:59:29,718 --> 00:59:31,879
+of uh of information of the source of truth.
+
+769
+00:59:31,879 --> 00:59:35,540
+So um and then we have Mercury for cash and build.com for for invoices.
+
+770
+00:59:35,540 --> 00:59:38,801
+Uh but I use that.
+
+771
+00:59:38,801 --> 00:59:39,891
+And then I query.
+
+772
+00:59:39,891 --> 00:59:45,882
+So that's obviously all in a folder instead of on my on my laptop that has all those files
+back to since we started the company.
+
+773
+00:59:46,063 --> 00:59:57,136
+So it has these really useful dashboard interfaces, like like six different dashboards
+with or six different pages with multiple dashboards on each page, and I can do like
+
+774
+00:59:57,136 --> 00:59:58,618
+scenario planning on what
+
+775
+00:59:58,618 --> 01:00:02,879
+This happens, or if we sign these three clients by next month, we're gonna make these two
+hires.
+
+776
+01:00:02,879 --> 01:00:04,008
+What does that look like for cash flow?
+
+777
+01:00:04,008 --> 01:00:04,980
+How does that change eBaD?
+
+778
+01:00:04,980 --> 01:00:06,790
+How should I think about this?
+
+779
+01:00:06,790 --> 01:00:11,802
+So that's all true cloud code, and then also I can query it.
+
+780
+01:00:11,802 --> 01:00:13,792
+So I can say, hey, what happened?
+
+781
+01:00:13,792 --> 01:00:26,766
+Like I uh same thing, I can go, it can access all that structured information now from
+from our uh books, from our finance files for the last four years and look at it, but more
+
+782
+01:00:26,766 --> 01:00:27,796
+relevant
+
+783
+01:00:28,166 --> 01:00:32,708
+Whatever when when we that's the first thing I do when we close books at the beginning of
+a month.
+
+784
+01:00:32,788 --> 01:00:38,011
+I upload them to this and I go through the dashboard instead of having to go through each
+of the files separately.
+
+785
+01:00:38,011 --> 01:00:39,971
+I have this interface now.
+
+786
+01:00:40,112 --> 01:00:41,482
+That's probably the most useful thing I've built.
+
+787
+01:00:41,482 --> 01:00:44,053
+Uh and cloud code.
+
+788
+01:00:44,214 --> 01:00:48,035
+And then cowork, like you have all these different like task dashboards for productivity
+things.
+
+789
+01:00:48,035 --> 01:00:50,256
+Um they're pretty useful.
+
+790
+01:00:50,256 --> 01:00:53,338
+Um but
+
+791
+01:00:54,298 --> 01:00:57,554
+Yeah, what you're the one building interesting things.
+
+792
+01:00:57,554 --> 01:00:58,576
+You tell
+
+793
+01:00:59,160 --> 01:01:03,756
+So this is more for people who just pretty much live in Cloud Code.
+
+794
+01:01:03,756 --> 01:01:05,308
+So I live in Cloud Code.
+
+795
+01:01:05,308 --> 01:01:08,753
+I use Codecs too a lot now eh because I keep...
+
+796
+01:01:08,753 --> 01:01:14,251
+I want to free up my time to do more of that, but I have to talk to many people.
+
+797
+01:01:14,251 --> 01:01:17,422
+I have codecs check, Claude's work and stuff like that.
+
+798
+01:01:17,422 --> 01:01:23,816
+So like, I started using this thing, every time I have an idea, I turn it into, so
+everything gets a GitHub repo, right?
+
+799
+01:01:23,816 --> 01:01:25,857
+So repository, that's what.
+
+800
+01:01:25,857 --> 01:01:27,658
+And then every project.
+
+801
+01:01:27,658 --> 01:01:30,679
+But before a project starts, I start a discussion.
+
+802
+01:01:30,679 --> 01:01:33,621
+The GitHub has a section called discussions, right?
+
+803
+01:01:34,001 --> 01:01:41,595
+I post a discussion, I basically, you you both use the microphone app, Whisperflow or
+whatever, you
+
+804
+01:01:41,719 --> 01:01:44,119
+We just talk to you, you ramble, you ramble into it.
+
+805
+01:01:44,119 --> 01:01:45,659
+gives a lot of context.
+
+806
+01:01:45,778 --> 01:01:51,599
+You don't want to just like, you know, have like a two, two, three, you don't want to do
+like two, three lines of prompt.
+
+807
+01:01:51,599 --> 01:01:53,459
+You just like ramble into it.
+
+808
+01:01:53,459 --> 01:01:55,979
+Just like dump your brain into that conversation.
+
+809
+01:01:55,979 --> 01:01:57,499
+And then this is what I want to do.
+
+810
+01:01:57,499 --> 01:02:00,979
+Let's get a discussion going and then gets a discussion going.
+
+811
+01:02:00,979 --> 01:02:06,719
+And then I have like each tab that I have in the cloud code in the shell.
+
+812
+01:02:06,719 --> 01:02:08,219
+It's like a different project, right?
+
+813
+01:02:08,219 --> 01:02:11,796
+You know, I have MCP engineer, gigantic computer engineer,
+
+814
+01:02:11,796 --> 01:02:20,890
+Gentic Web Engineer, Model Engine, like there's just a lot of different components, a lot
+of different repos, and each engineer, I give them, you are the engineer for this repo,
+
+815
+01:02:20,890 --> 01:02:23,651
+like you're responsible for this, right?
+
+816
+01:02:23,651 --> 01:02:26,812
+And then their memory just builds up about that repo.
+
+817
+01:02:26,812 --> 01:02:35,706
+So uh every time we work on something about that project, they're just like, they have
+more information than the other engineers, like inside of that repo, inside of that
+
+818
+01:02:35,706 --> 01:02:38,377
+folder, or tab.
+
+819
+01:02:38,817 --> 01:02:41,138
+And then, but as you know,
+
+820
+01:02:42,375 --> 01:02:44,756
+I live in Rhode Island, it's beach season.
+
+821
+01:02:44,957 --> 01:02:54,425
+So I don't wanna be tied to my laptop and I don't wanna bring my laptop and I wanna be out
+and about, just go to beach, do things, do that.
+
+822
+01:02:54,425 --> 01:03:00,409
+But the thing is we can get the agent still working, Patty, like we don't, the work
+doesn't have to stop.
+
+823
+01:03:01,251 --> 01:03:02,031
+That's the thing.
+
+824
+01:03:02,031 --> 01:03:07,916
+So the idea here is that how can the agents keep working when I'm not here?
+
+825
+01:03:08,036 --> 01:03:10,418
+Or I don't wanna bring my laptop with me, right?
+
+826
+01:03:10,452 --> 01:03:14,085
+So for this, Claude has remote control.
+
+827
+01:03:14,927 --> 01:03:17,158
+If you type in slash RC.
+
+828
+01:03:17,158 --> 01:03:23,537
+So do you do you do everything through just um like dispatcher remote control versus
+versus open cloud or
+
+829
+01:03:23,668 --> 01:03:29,133
+if I'm here, even if I'm in here, I still use remote control and I'll tell you why now.
+
+830
+01:03:29,133 --> 01:03:33,728
+uh So I have like six different tabs open in Cloud Code.
+
+831
+01:03:33,728 --> 01:03:40,765
+Each tab in terminal, I use Ghosty, is a separate project, separate repo, right?
+
+832
+01:03:40,765 --> 01:03:42,766
+And then, uh
+
+833
+01:03:43,765 --> 01:03:46,939
+And then all of them have slash RC with remote control.
+
+834
+01:03:46,939 --> 01:03:53,155
+And I tie that to uh Claude's desktop app or Claude's iPhone app.
+
+835
+01:03:53,155 --> 01:03:57,970
+Because in the iPhone app, the remote control shows up inside of the Claude's app.
+
+836
+01:03:57,971 --> 01:04:04,417
+So it will work as long as your laptop is open and the shell is on.
+
+837
+01:04:05,191 --> 01:04:14,850
+But then you have to keep the laptop open and I'm like, oh, I never wanna do that because
+we have a dog, we have a five year old and they're all coming in and doing stuff in my
+
+838
+01:04:14,850 --> 01:04:16,561
+office.
+
+839
+01:04:16,602 --> 01:04:19,474
+So yeah, no, I just don't wanna leave it around.
+
+840
+01:04:19,474 --> 01:04:26,972
+And then I said, all right, let me just connect my laptop to my other desktop.
+
+841
+01:04:26,972 --> 01:04:29,673
+I have a desktop laptop that never turns up.
+
+842
+01:04:29,898 --> 01:04:38,082
+But then what happens is every once in a while, it's just the new Mac update installs or
+the Wi-Fi goes out or something like that.
+
+843
+01:04:38,082 --> 01:04:41,403
+it just like shell closes and I'm like, it loses the memory.
+
+844
+01:04:41,403 --> 01:04:48,926
+And I have these uh cron jobs that runs and I'm like, all right, I can't, let me figure
+out a way to run this on the cloud, right?
+
+845
+01:04:48,926 --> 01:04:58,390
+So I went to Amazon, AWS, created an EC2 server, which is like medium size, it's like 30
+bucks a month or something like that.
+
+846
+01:04:58,592 --> 01:05:01,465
+And then you log in to the shell, it's a Linux.
+
+847
+01:05:01,465 --> 01:05:10,884
+And then you install cloud code on the AWS shell, EC2, right?
+
+848
+01:05:10,884 --> 01:05:11,755
+It's on the cloud.
+
+849
+01:05:11,755 --> 01:05:18,941
+And then I created several folders, five, six folders for all of the projects that I have,
+I tied them to the GitHub repos.
+
+850
+01:05:19,503 --> 01:05:21,385
+And then each one of them are open.
+
+851
+01:05:21,385 --> 01:05:23,026
+But the thing is, again,
+
+852
+01:05:23,378 --> 01:05:29,661
+you connect to this from your laptop and if you disconnect the shell, they shut down and I
+don't want them to be shut down.
+
+853
+01:05:29,661 --> 01:05:35,110
+I want them to be always on, which I can remote control from wherever, right?
+
+854
+01:05:35,110 --> 01:05:38,213
+So then there's a thing called TMUX, T-M-U-X.
+
+855
+01:05:38,434 --> 01:05:42,677
+So this TMUX allows the connection to be on.
+
+856
+01:05:42,751 --> 01:05:51,575
+So you kind of create a session, Tmoc session in AWS and I keep it on and then detach the
+session, close your laptop.
+
+857
+01:05:51,575 --> 01:06:03,100
+So I have like right now, as we speak, I have five, six remote cloud code sessions running
+on AWS EC2 server, which I can shut down this laptop after I call and go to the beach.
+
+858
+01:06:03,100 --> 01:06:05,021
+It's awesome out, beautiful.
+
+859
+01:06:05,161 --> 01:06:07,542
+And I can just like, and I talk to it like this.
+
+860
+01:06:08,293 --> 01:06:08,710
+Yeah.
+
+861
+01:06:08,710 --> 01:06:11,152
+I just turn on Whisperflow and I'm like, okay.
+
+862
+01:06:11,152 --> 01:06:12,973
+And here's another thing that I did.
+
+863
+01:06:12,973 --> 01:06:16,925
+I'm getting these uh clods check each other's work.
+
+864
+01:06:16,925 --> 01:06:24,738
+I have a CTO clod and here's, do work on this after you're done, create a pull request,
+email it to the CTO.
+
+865
+01:06:24,738 --> 01:06:29,422
+So I gave them agent mail inboxes, all five of them.
+
+866
+01:06:29,862 --> 01:06:32,964
+So it's like they have their own email addresses.
+
+867
+01:06:33,805 --> 01:06:35,345
+It's agent mail, agentmail.to.
+
+868
+01:06:35,345 --> 01:06:36,846
+oh
+
+869
+01:06:36,958 --> 01:06:38,982
+It's a new YC company.
+
+870
+01:06:38,982 --> 01:06:39,643
+Yeah.
+
+871
+01:06:39,643 --> 01:06:47,357
+So I created like five, six inboxes and I gave them their logins, API keys and said, look,
+it's in the repo.
+
+872
+01:06:47,357 --> 01:06:47,873
+What's that?
+
+873
+01:06:47,873 --> 01:06:49,407
+they have their own credit cards?
+
+874
+01:06:50,568 --> 01:06:51,719
+not yet, no.
+
+875
+01:06:51,799 --> 01:06:54,340
+But we're gonna do this with the Robinhood, right?
+
+876
+01:06:55,121 --> 01:07:02,266
+So I gave them their email addresses and they all know their own email addresses and they
+know the email addresses of the other engineers.
+
+877
+01:07:02,526 --> 01:07:13,894
+So like when the MCP engineers needs the gigantic computer engineer, it's like, like I
+email them and I have a cron job that runs every five minutes to check emails.
+
+878
+01:07:13,974 --> 01:07:14,774
+Right?
+
+879
+01:07:14,774 --> 01:07:17,594
+CTO is checking, oh, like I have a pull request.
+
+880
+01:07:17,654 --> 01:07:20,634
+Oh, I approve it, email the approval and then merge it.
+
+881
+01:07:20,634 --> 01:07:26,094
+So I'm like, the only question that I get is like, okay, this is done now.
+
+882
+01:07:26,094 --> 01:07:28,134
+Should we merge it and deploy it to production?
+
+883
+01:07:28,894 --> 01:07:30,974
+So, you know, I say yes to all of them, right?
+
+884
+01:07:30,974 --> 01:07:34,194
+It's just because I have so many good checks in place.
+
+885
+01:07:34,194 --> 01:07:36,996
+So I kind of have to replicate myself to also say.
+
+886
+01:07:36,996 --> 01:07:37,743
+your harness.
+
+887
+01:07:37,743 --> 01:07:40,124
+Like, yeah, so the harness is working so good.
+
+888
+01:07:40,124 --> 01:07:45,548
+ah But then I'm like, in some point, at some points, if they're still asking me, like,
+should I do this?
+
+889
+01:07:45,548 --> 01:07:46,525
+Should I not do this?
+
+890
+01:07:46,525 --> 01:07:50,300
+And I'm like, well, this is where I need my own digital twin.
+
+891
+01:07:50,300 --> 01:07:52,211
+Like this is what Bora would have said.
+
+892
+01:07:54,413 --> 01:07:59,035
+Like, let the digital twin say the thing I would have said, instead of me saying it.
+
+893
+01:07:59,035 --> 01:08:01,716
+No, no, I haven't built a digital twin.
+
+894
+01:08:03,178 --> 01:08:03,633
+Yeah.
+
+895
+01:08:03,633 --> 01:08:05,110
+and YouTubes and
+
+896
+01:08:05,110 --> 01:08:07,270
+Yeah, mean, but yeah.
+
+897
+01:08:07,270 --> 01:08:09,710
+So I'm like, how do I make decisions, right?
+
+898
+01:08:09,710 --> 01:08:19,310
+So like, I can, you basically just, if you can articulate that, if you can write it down
+and turn it into some kind of a skill file for the agent to follow, you know.
+
+899
+01:08:19,310 --> 01:08:20,570
+So this is an interesting thing.
+
+900
+01:08:20,570 --> 01:08:28,510
+We had other, so if people are interested in doing this, they can try it, like the way I
+described it, it's a big unlock, I think.
+
+901
+01:08:29,782 --> 01:08:31,942
+So we have other things to talk about about Patty.
+
+902
+01:08:31,942 --> 01:08:34,982
+just ran, we're at 68 minutes now.
+
+903
+01:08:34,982 --> 01:08:45,202
+So I think we should end our conversation here and then maybe continue next week from
+where we left off with some of the news and some of the other important topics.
+
+904
+01:08:45,558 --> 01:08:51,853
+Um yeah, I feel like this might be more even more common than than than a weekly one, but
+we'll see.
+
+905
+01:08:52,342 --> 01:08:54,322
+Yeah, we'll see.
+
+906
+01:08:56,442 --> 01:08:58,142
+There's a lot to talk about.
+
+907
+01:08:58,142 --> 01:09:01,202
+It's just, there's a lot going on.
+
+908
+01:09:01,602 --> 01:09:07,802
+honestly, I don't want to keep up, but like we have to.
+
+909
+01:09:10,222 --> 01:09:10,879
+Yes.
+
+910
+01:09:10,879 --> 01:09:13,070
+we can just build if we pause today.
+
+911
+01:09:13,951 --> 01:09:21,347
+So one w so and there's a good argument to say that you shouldn't try to keep up because
+there's so much stuff that you should try to build, but then you also have to know where
+
+912
+01:09:21,347 --> 01:09:22,577
+the puck is going.
+
+913
+01:09:22,723 --> 01:09:24,804
+We need an edge in business, right?
+
+914
+01:09:24,804 --> 01:09:26,425
+We all need an edge, right?
+
+915
+01:09:26,425 --> 01:09:31,888
+If everybody has access to the same kinds of things, how do you win in business?
+
+916
+01:09:31,888 --> 01:09:34,309
+How do you compete with your competitors?
+
+917
+01:09:34,309 --> 01:09:37,050
+You need to have an extra.
+
+918
+01:09:37,232 --> 01:09:39,013
+edge, some kind of delta.
+
+919
+01:09:39,013 --> 01:09:49,090
+oh And then maybe I feel like at this time that delta is in the form of a three month
+being ahead of somebody three months, kind of like the frontier models and the open source
+
+920
+01:09:49,090 --> 01:09:50,091
+Chinese models, right?
+
+921
+01:09:50,091 --> 01:09:54,564
+Open source Chinese models are pretty good, but frontier models are better.
+
+922
+01:09:54,856 --> 01:09:58,777
+And you know, maybe you could say that there may be three months ahead or six months ahead
+or whatever.
+
+923
+01:09:58,777 --> 01:10:07,900
+But the thing is, if we want to compete in business, if our competitor is using the best
+frontier models and we're stuck with like the cheaper models, then our competitors is
+
+924
+01:10:07,900 --> 01:10:08,371
+going to win.
+
+925
+01:10:08,371 --> 01:10:15,573
+like I, so it's in our best interest to be at the forefront doing the new and better
+things.
+
+926
+01:10:15,573 --> 01:10:16,333
+to have that edge.
+
+927
+01:10:16,333 --> 01:10:20,066
+Like I heard this from Toby Lutke, the Shopify CEO in a podcast.
+
+928
+01:10:20,066 --> 01:10:24,468
+Somebody asked him, like, you're spending so much in tokens at Shopify.
+
+929
+01:10:24,468 --> 01:10:25,849
+And he's like, I'm happy.
+
+930
+01:10:25,849 --> 01:10:35,315
+I'm actually happy that we're spending because that gives us, if we have the ability to
+spend that much in tokens and then do that much extra and better, that gives our company
+
+931
+01:10:35,315 --> 01:10:38,016
+an edge over others who can't spend that money.
+
+932
+01:10:38,056 --> 01:10:38,800
+You see what I mean?
+
+933
+01:10:38,800 --> 01:10:40,007
+I haven't thought of it like that.
+
+934
+01:10:40,007 --> 01:10:42,819
+And that kind of also reframed it a bit for me.
+
+935
+01:10:42,820 --> 01:10:43,790
+Yeah, yeah.
+
+936
+01:10:43,871 --> 01:10:49,593
+Are you back using Opus four point six or have you seen four point seven being a bit lower
+quality for
+
+937
+01:10:49,593 --> 01:10:50,264
+happy with it.
+
+938
+01:10:50,264 --> 01:10:52,105
+I'm happy with 4.7.
+
+939
+01:10:52,105 --> 01:11:02,150
+I do Opus 4.7 and then I use uh JATGBT 5.5 extra high in Codex.
+
+940
+01:11:02,411 --> 01:11:07,873
+So basically when I create these GitHub folders, Codex also has access to them.
+
+941
+01:11:08,154 --> 01:11:13,657
+Especially when I'm doing like upfront architecture, like right now I'm doing an upfront
+architecture about proactive AI.
+
+942
+01:11:13,657 --> 01:11:17,459
+Because we didn't get a chance to talk about brand brain, which we can talk about it next
+time.
+
+943
+01:11:17,685 --> 01:11:28,318
+But the reason to have the brand brain is, or company brain, is so when that brain exists,
+the agents can do proactive things by consulting that brain, right?
+
+944
+01:11:28,318 --> 01:11:29,679
+That's why we have a brain.
+
+945
+01:11:29,679 --> 01:11:40,302
+So now the brain is there, what can we do with that brain so that we don't have to ask
+questions to it, but agents can proactively do things.
+
+946
+01:11:40,302 --> 01:11:44,395
+So that's what I'm working on now, but I'm at the architecture phase.
+
+947
+01:11:44,607 --> 01:11:47,727
+And then I'm having, I have a discussion in GitHub now.
+
+948
+01:11:47,727 --> 01:11:48,853
+have coded.
+
+949
+01:11:48,853 --> 01:11:49,810
+Yeah, exactly.
+
+950
+01:11:49,810 --> 01:11:54,700
+Yeah, we can get into it in either next week or the week after that.
+
+951
+01:11:55,923 --> 01:11:58,035
+All right, Patty, nice chatting with you.
+
+952
+01:11:58,035 --> 01:11:59,162
+Talk to you next time,
+
+953
+01:11:59,162 --> 01:11:59,703
+Talk to you.
+
+954
+01:11:59,703 --> 01:12:00,385
+Bye bye.
+
+955
+01:12:00,385 --> 01:12:01,345
+Cheers.
+
