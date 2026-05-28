@@ -6,31 +6,148 @@
     "agentic",
     "automation",
     "workflow",
+    "orchestration",
     "mcp",
+    "model context protocol",
+    "llm",
+    "model",
+    "models",
+    "reasoning",
+    "memory",
+    "eval",
+    "benchmark",
+    "browser",
+    "computer use",
     "openai",
     "chatgpt",
     "codex",
     "anthropic",
     "claude",
     "gemini",
+    "deepmind",
     "google",
+    "microsoft",
+    "copilot",
+    "github",
+    "cursor",
+    "windsurf",
+    "replit",
+    "vercel",
+    "langchain",
+    "llamaindex",
+    "n8n",
+    "zapier",
     "shopify",
     "ecommerce",
     "commerce",
+    "agentic commerce",
     "checkout",
     "retail",
     "merchant",
-    "youtube",
-    "creator",
-    "affiliate",
-    "ads",
-    "marketing",
+    "dtc",
+    "direct-to-consumer",
+    "marketplace",
+    "payments",
+    "wallet",
     "stripe",
     "visa",
     "mastercard",
-    "n8n",
-    "zapier"
+    "stablecoin",
+    "ads",
+    "marketing",
+    "meta ads",
+    "google ads",
+    "performance marketing",
+    "creator",
+    "creators",
+    "affiliate",
+    "partner marketing",
+    "influencer",
+    "ugc",
+    "youtube",
+    "tiktok",
+    "klaviyo",
+    "triple whale",
+    "northbeam"
   ],
+  "boost_keywords": [
+    "autonomous",
+    "self-improving",
+    "replaces",
+    "replacing",
+    "replace",
+    "killed",
+    "dead",
+    "layoff",
+    "layoffs",
+    "fired",
+    "shutdown",
+    "backlash",
+    "lawsuit",
+    "sued",
+    "copyright",
+    "leak",
+    "leaked",
+    "data leak",
+    "hack",
+    "jailbreak",
+    "prompt injection",
+    "security",
+    "exfiltrate",
+    "fraud",
+    "scam",
+    "ban",
+    "banned",
+    "controversy",
+    "weird",
+    "wild",
+    "insane",
+    "surprising",
+    "pricing",
+    "expensive",
+    "outage",
+    "acquisition",
+    "funding",
+    "raised",
+    "open weights",
+    "open source",
+    "open-source",
+    "agentic commerce",
+    "creator economy",
+    "affiliate",
+    "ecommerce",
+    "DTC",
+    "conversion",
+    "revenue",
+    "profit",
+    "valuation",
+    "billion",
+    "million"
+  ],
+  "penalty_keywords": [
+    "webinar",
+    "event recap",
+    "recap",
+    "sponsored",
+    "awards",
+    "named a leader",
+    "magic quadrant",
+    "the blueprint",
+    "customer story",
+    "customers need to know",
+    "announcing the winners",
+    "winners and highlights",
+    "challenge winners",
+    "cloud ciso perspectives",
+    "join us",
+    "conference",
+    "summit",
+    "partner to bring trusted journalism",
+    "strategic content partnership",
+    "campus network",
+    "student club"
+  ],
+  "per_source_limit": 4,
   "feeds": [
     {
       "name": "OpenAI News",
@@ -45,16 +162,100 @@
       "weight": 5
     },
     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "category": "official-ai",
+      "weight": 5
+    },
+    {
+      "name": "Google Developer AI",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/rss/",
+      "category": "official-ai-dev",
+      "weight": 5
+    },
+    {
+      "name": "Google Cloud AI",
+      "url": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "category": "official-ai-cloud",
+      "weight": 2
+    },
+    {
+      "name": "Microsoft AI",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "category": "official-ai",
+      "weight": 4
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "category": "official-dev",
+      "weight": 3
+    },
+    {
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/feed/",
+      "category": "official-dev",
+      "weight": 3
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "category": "official-ai-dev",
+      "weight": 3
+    },
+    {
+      "name": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/rss.xml",
+      "category": "agent-builder",
+      "weight": 3
+    },
+    {
+      "name": "Vercel Blog",
+      "url": "https://vercel.com/atom",
+      "category": "agent-builder",
+      "weight": 3
+    },
+    {
+      "name": "n8n Blog",
+      "url": "https://blog.n8n.io/rss/",
+      "category": "workflow-tools",
+      "weight": 3
+    },
+    {
+      "name": "Zapier Blog",
+      "url": "https://zapier.com/blog/feeds/latest/",
+      "category": "workflow-tools",
+      "weight": 2
+    },
+    {
       "name": "Google Shopping",
       "url": "https://blog.google/products-and-platforms/products/shopping/rss/",
       "category": "official-commerce",
       "weight": 5
     },
     {
+      "name": "Google Ads and Commerce",
+      "url": "https://blog.google/products/ads-commerce/rss/",
+      "category": "official-commerce",
+      "weight": 4
+    },
+    {
+      "name": "Google Marketing Platform",
+      "url": "https://blog.google/products/marketingplatform/rss/",
+      "category": "official-marketing",
+      "weight": 3
+    },
+    {
       "name": "YouTube Blog",
       "url": "https://blog.youtube/rss/",
       "category": "official-creator",
       "weight": 4
+    },
+    {
+      "name": "Stripe Blog",
+      "url": "https://stripe.com/blog/feed.rss",
+      "category": "payments",
+      "weight": 3
     },
     {
       "name": "TechCrunch AI",
@@ -81,27 +282,466 @@
       "weight": 2
     },
     {
+      "name": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "category": "journalism-tech",
+      "weight": 2
+    },
+    {
+      "name": "Ars Technica Technology Lab",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "category": "journalism-tech",
+      "weight": 2
+    },
+    {
+      "name": "ZDNET",
+      "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+      "category": "journalism-ai",
+      "weight": 2
+    },
+    {
+      "name": "Platformer",
+      "url": "https://www.platformer.news/rss/",
+      "category": "journalism-tech",
+      "weight": 2
+    },
+    {
+      "name": "404 Media",
+      "url": "https://www.404media.co/rss/",
+      "category": "tech-weirdness",
+      "weight": 4
+    },
+    {
+      "name": "Wired AI",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "category": "journalism-ai",
+      "weight": 3
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/feed/",
+      "category": "journalism-ai",
+      "weight": 3
+    },
+    {
+      "name": "Shopifreaks",
+      "url": "https://www.shopifreaks.com/feed/",
+      "category": "ecommerce-news",
+      "weight": 5
+    },
+    {
+      "name": "Practical Ecommerce",
+      "url": "https://www.practicalecommerce.com/feed",
+      "category": "ecommerce-news",
+      "weight": 3
+    },
+    {
+      "name": "Retail Dive",
+      "url": "https://www.retaildive.com/feeds/news/",
+      "category": "commerce-news",
+      "weight": 2
+    },
+    {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/feeds/news/",
+      "category": "marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "Social Media Today",
+      "url": "https://www.socialmediatoday.com/feeds/news/",
+      "category": "creator-marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "Digiday",
+      "url": "https://digiday.com/feed/",
+      "category": "media-marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/feed/",
+      "category": "adtech-marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "MarTech",
+      "url": "https://martech.org/feed/",
+      "category": "marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/feed/",
+      "category": "marketing-news",
+      "weight": 2
+    },
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/feed",
+      "category": "marketing-news",
+      "weight": 2
+    },
+    {
       "name": "Simon Willison",
       "url": "https://simonwillison.net/atom/everything/",
       "category": "builder-analysis",
-      "weight": 3
+      "weight": 4
     },
     {
       "name": "Latent Space",
       "url": "https://www.latent.space/feed",
       "category": "builder-analysis",
+      "weight": 4
+    },
+    {
+      "name": "AI News",
+      "url": "https://buttondown.com/ainews/rss",
+      "category": "ai-newsletter",
+      "weight": 4
+    },
+    {
+      "name": "TLDR AI",
+      "url": "https://tldr.tech/api/rss/ai",
+      "category": "ai-newsletter",
       "weight": 3
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/feed",
+      "category": "ai-analysis",
+      "weight": 4
+    },
+    {
+      "name": "Import AI",
+      "url": "https://importai.substack.com/feed",
+      "category": "ai-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/feed",
+      "category": "ai-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Last Week in AI",
+      "url": "https://lastweekin.ai/feed",
+      "category": "ai-newsletter",
+      "weight": 2
+    },
+    {
+      "name": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/feed",
+      "category": "product-operator-analysis",
+      "weight": 2
+    },
+    {
+      "name": "Every Chain of Thought",
+      "url": "https://every.to/chain-of-thought/feed.xml",
+      "category": "ai-operator-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/",
+      "category": "tech-strategy-analysis",
+      "weight": 2
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/feed",
+      "category": "ai-skeptic-analysis",
+      "weight": 4
+    },
+    {
+      "name": "Understanding AI",
+      "url": "https://www.understandingai.org/feed",
+      "category": "ai-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Gary Marcus",
+      "url": "https://garymarcus.substack.com/feed",
+      "category": "ai-skeptic-analysis",
+      "weight": 3
+    },
+    {
+      "name": "Not Boring",
+      "url": "https://www.notboring.co/feed",
+      "category": "tech-strategy-analysis",
+      "weight": 2
+    },
+    {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/feed.xml",
+      "category": "tech-discovery",
+      "weight": 2
+    },
+    {
+      "name": "Hacker News - AI Search",
+      "url": "https://hnrss.org/newest?q=AI",
+      "category": "community-discovery",
+      "weight": 2
+    },
+    {
+      "name": "Hacker News Frontpage",
+      "url": "https://hnrss.org/frontpage",
+      "category": "community-discovery",
+      "weight": 1
+    },
+    {
+      "name": "Lobsters AI",
+      "url": "https://lobste.rs/t/ai.rss",
+      "category": "community-discovery",
+      "weight": 2
+    },
+    {
+      "name": "Cloudflare AI",
+      "url": "https://blog.cloudflare.com/tag/ai/rss/",
+      "category": "infra-ai",
+      "weight": 2
+    },
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "category": "infra-ai",
+      "weight": 2
+    },
+    {
+      "name": "Replicate Blog",
+      "url": "https://replicate.com/blog/rss",
+      "category": "ai-builder-platform",
+      "weight": 3
+    },
+    {
+      "name": "Modern Retail",
+      "url": "https://www.modernretail.co/feed/",
+      "category": "commerce-news",
+      "weight": 2
+    },
+    {
+      "name": "PYMNTS",
+      "url": "https://www.pymnts.com/feed/",
+      "category": "commerce-payments-news",
+      "weight": 2
+    },
+    {
+      "name": "Payments Dive",
+      "url": "https://www.paymentsdive.com/feeds/news/",
+      "category": "payments-news",
+      "weight": 2
+    },
+    {
+      "name": "Tubefilter",
+      "url": "https://www.tubefilter.com/feed/",
+      "category": "creator-news",
+      "weight": 2
+    },
+    {
+      "name": "Passionfruit",
+      "url": "https://passionfru.it/feed/",
+      "category": "creator-news",
+      "weight": 2
+    },
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/feed",
+      "category": "product-discovery",
+      "weight": 1
+    }
+  ],
+  "pages": [
+    {
+      "name": "Anthropic News Page",
+      "url": "https://www.anthropic.com/news",
+      "category": "official-ai-page",
+      "weight": 5,
+      "include_url_patterns": [
+        "https://www\\.anthropic\\.com/news/"
+      ],
+      "exclude_url_patterns": [
+        "/news$"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Anthropic Engineering Page",
+      "url": "https://www.anthropic.com/engineering",
+      "category": "official-ai-page",
+      "weight": 5,
+      "include_url_patterns": [
+        "https://www\\.anthropic\\.com/engineering/"
+      ],
+      "exclude_url_patterns": [
+        "/engineering$"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Shopify News Page",
+      "url": "https://www.shopify.com/news",
+      "category": "official-commerce-page",
+      "weight": 4,
+      "include_url_patterns": [
+        "https://www\\.shopify\\.com/news/"
+      ],
+      "exclude_url_patterns": [
+        "/news$",
+        "/category/"
+      ],
+      "max_links": 40
+    },
+    {
+      "name": "Shopify Blog Page",
+      "url": "https://www.shopify.com/blog",
+      "category": "official-commerce-page",
+      "weight": 4,
+      "include_url_patterns": [
+        "https://www\\.shopify\\.com/blog/"
+      ],
+      "exclude_url_patterns": [
+        "/pricing",
+        "/login",
+        "/free-trial",
+        "/blog$",
+        "/blog/topics/",
+        "/blog/authors/"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Triple Whale Blog Page",
+      "url": "https://www.triplewhale.com/blog",
+      "category": "ecommerce-operator-page",
+      "weight": 4,
+      "include_url_patterns": [
+        "https://www\\.triplewhale\\.com/blog/"
+      ],
+      "exclude_url_patterns": [
+        "/blog$",
+        "/author/"
+      ],
+      "max_links": 40
+    },
+    {
+      "name": "LlamaIndex Blog Page",
+      "url": "https://www.llamaindex.ai/blog",
+      "category": "agent-builder-page",
+      "weight": 3,
+      "include_url_patterns": [
+        "https://www\\.llamaindex\\.ai/blog/"
+      ],
+      "exclude_url_patterns": [
+        "/blog$"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Cursor Changelog Page",
+      "url": "https://cursor.com/changelog",
+      "category": "ai-dev-tool-page",
+      "weight": 3,
+      "include_url_patterns": [
+        "https://cursor\\.com/changelog"
+      ],
+      "max_links": 25
+    },
+    {
+      "name": "Model Context Protocol Page",
+      "url": "https://modelcontextprotocol.io/",
+      "category": "agent-protocol-page",
+      "weight": 4,
+      "include_url_patterns": [
+        "https://modelcontextprotocol\\.io/"
+      ],
+      "exclude_url_patterns": [
+        "/specification/",
+        "/docs/"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "OpenRouter Announcements Page",
+      "url": "https://openrouter.ai/announcements",
+      "category": "ai-model-market-page",
+      "weight": 3,
+      "include_url_patterns": [
+        "https://openrouter\\.ai/announcements/"
+      ],
+      "exclude_url_patterns": [
+        "/announcements$"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Stripe Changelog Page",
+      "url": "https://docs.stripe.com/changelog",
+      "category": "payments-changelog-page",
+      "weight": 2,
+      "include_url_patterns": [
+        "https://docs\\.stripe\\.com/changelog/.+/20\\d{2}-"
+      ],
+      "exclude_url_patterns": [
+        "/login"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Meta AI Blog Page",
+      "url": "https://ai.meta.com/blog/",
+      "category": "official-ai-page",
+      "weight": 3,
+      "include_url_patterns": [
+        "https://ai\\.meta\\.com/blog/"
+      ],
+      "exclude_url_patterns": [
+        "/blog/$"
+      ],
+      "max_links": 30
+    },
+    {
+      "name": "Klaviyo Blog Page",
+      "url": "https://www.klaviyo.com/blog",
+      "category": "ecommerce-marketing-page",
+      "weight": 3,
+      "include_url_patterns": [
+        "https://www\\.klaviyo\\.com/blog/"
+      ],
+      "exclude_url_patterns": [
+        "/blog$"
+      ],
+      "max_links": 30
     }
   ],
   "manual_watchlist": [
     "https://www.anthropic.com/news",
     "https://www.anthropic.com/engineering",
+    "https://platform.claude.com/docs/en/release-notes/overview",
     "https://www.shopify.com/news",
-    "https://www.shopify.com/blog/topics/ai",
+    "https://www.shopify.com/blog",
+    "https://www.shopify.com/editions",
     "https://www.shopifreaks.com/",
     "https://www.triplewhale.com/blog",
+    "https://openrouter.ai/announcements",
+    "https://developers.openai.com/api/docs/changelog",
+    "https://developers.openai.com/codex/changelog",
+    "https://docs.stripe.com/changelog",
+    "https://www.404media.co/",
+    "https://www.wired.com/tag/artificial-intelligence/",
+    "https://www.theinformation.com/",
     "https://techmeme.com/",
-    "https://news.ycombinator.com/"
+    "https://news.ycombinator.com/",
+    "https://x.com/sama",
+    "https://x.com/darioamodei",
+    "https://x.com/tobi",
+    "https://x.com/harleyf",
+    "https://x.com/levie",
+    "https://x.com/sean_ecom",
+    "https://x.com/CodyPlof",
+    "https://x.com/jesspujji",
+    "https://www.linkedin.com/in/patrick-campbell/",
+    "https://www.linkedin.com/in/cody-schneider/"
   ]
 }
-
