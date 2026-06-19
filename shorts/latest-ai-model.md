@@ -1,7 +1,1 @@
-# Why People Will Always Want The Latest AI Model?
-
-- **Views:** 1,189
-- **Retention:** 56% at the halfway mark
-- **Traffic Source:** >92% Shorts feed
-
-**Insights:** Strong performer. Successfully capturing attention in the Shorts feed and maintaining high retention.
+# Why People Will Always Want The Latest AI Model?\n\n- **Duration:** 0:50\n- **Views:** 1,190\n- **Likes:** 11\n\n**Insights:** \nRetained 71.5% of viewers at the 15-second mark and 56% at the halfway point. Over 92% of views come strictly from the Shorts Feed.
