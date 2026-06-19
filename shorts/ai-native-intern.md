@@ -1,7 +1,1 @@
-# AI-Native Intern's Massive Unlock
-
-- **Duration:** 2m 47s
-- **Views:** 458
-- **Retention:** 76% at 15 seconds, 23% at the halfway mark
-
-**Insights:** Great early hook (15 seconds), but steep drop-off later. Needs tighter mid-clip pacing or an earlier payoff since it's stretching towards the 3-minute limit.
+# AI-Native Intern's Massive Unlock\n\n- **Duration:** 2:47\n- **Views:** 460\n- **Likes:** 7\n\n**Insights:** \nStarts very strong (76.5% retention at 15s), but drops to just 23.4% at the halfway mark. The audience likes the hook, but the pacing may be too slow for the Shorts feed. Consider cutting the runtime by 20-40% or moving the payoff earlier.
