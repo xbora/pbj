@@ -1,7 +1,1 @@
-# Is Anthropic Midwifing AI as A Deity?
-
-- **Views:** 732
-- **Retention:** 72% at 30 seconds, 76% at the halfway mark
-- **Traffic Source:** >92% Shorts feed
-
-**Insights:** High retention indicates a very strong hook. Effectively captures and holds the scroll.
+# Is Anthropic Midwifing AI as A Deity?\n\n- **Duration:** 0:50\n- **Views:** 732\n- **Likes:** 9\n\n**Insights:** \nHeld an incredible 91.6% at 15s and 76% at 50%. Over 92% of views come strictly from the Shorts Feed.
