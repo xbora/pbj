@@ -12,3 +12,5 @@ Midjourney has unveiled a new ultrasonic medical scanner that feels like visitin
 *(based on the Midjourney Medical blog post)*
 
 ## CLI vs MCP Debate
+
+## Running AI Agents Locally vs on the Cloud for Team Use
