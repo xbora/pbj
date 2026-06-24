@@ -14,3 +14,11 @@ Midjourney has unveiled a new ultrasonic medical scanner that feels like visitin
 ## CLI vs MCP Debate
 
 ## Running AI Agents Locally vs on the Cloud for Team Use
+
+## Amazon Hiring 11,000 Interns and Junior Employees
+Based on the interview with AWS CEO Matt Garman (via Platformer), Amazon is hiring 11,000 interns and new college grads for a few specific reasons:
+
+- **They are cost-effective:** They are the company's "cheapest employees."
+- **They are blank slates:** They haven't learned bad habits and can be easily taught Amazon's culture.
+- **They are highly adaptable:** They are eager and willing to learn new tools, which Garman views as the most important skill since jobs will change drastically over the next few years.
+- **They bring a fresh perspective:** They inject "energy and excitement" and new ideas into the company, which Garman notes you simply don't get if you only retain the exact same workforce for 15 years.
