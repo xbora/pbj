@@ -17,6 +17,10 @@ Midjourney has unveiled a new ultrasonic medical scanner that feels like visitin
 *(based on the Midjourney Medical blog post)*
 
 ## 3. CLI vs MCP Debate
+- **MCP scale dwarfs CLI:** Terminal-first CLI usage is a tiny fraction of real-world agent automation. MCP currently powers over 1 million agent runs monthly across various cloud platforms for major brands.
+- **Crucial for auth & cross-platform access:** MCP enables proper org-level authentication (like OAuth in ChatGPT/Claude and bearer tokens in n8n), allowing the same tools to be used securely across mass-market apps and enterprise automations.
+- **Token efficiency claims are flawed:** Arguments that CLI is more token-efficient often point to poorly designed MCP servers rather than the protocol itself. Benchmarks show the token consumption between CLI and MCP is effectively a wash.
+- **Mainstream adoption relies on MCP:** While CLI has its place for local developer workflows, the app ecosystems of mass-market products like ChatGPT and Claude rely on MCP, making it far more important for agent usage at scale.
 
 ## 4. Running AI Agents Locally vs on the Cloud for Team Use
 
