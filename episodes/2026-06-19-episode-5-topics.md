@@ -5,6 +5,13 @@ Many celebrity-backed brands fail because founders mistake a famous face for a p
 
 *(based on the TBPN episode titled "Jake Paul Thinks We'll Live Forever")*
 
+**Jake & Logan Paul's "Attention as Equity" Playbook:**
+- **Attention as Equity:** The Paul brothers are transitioning from earning cash through content and brand deals to turning their massive audience (150M+ followers) into actual business ownership. They use their distribution power to rapidly scale companies they co-found, like Prime Hydration, Betr, and W.
+- **Anti Fund's High-Profile Portfolio:** Jake Paul and Geoff Woo (along with Logan) run Anti Fund, a venture firm built on the thesis that capital is abundant but attention is scarce. They have invested in major companies across sectors, including OpenAI, Anduril, Ramp, and Whatnot.
+- **The "Billionaire by 35" Goal:** The brothers have a stated goal of becoming liquid billionaires by age 35. They plan to achieve this by compounding their wealth through equity stakes rather than just entertainment income.
+- **Calculated "Kayfabe" Performance:** The controversies and "hate" they receive are carefully orchestrated. They use professional wrestling-style personas to provoke audiences, ensuring they remain culturally relevant and highly profitable.
+- **Strategic Partnerships:** They understand their strengths and rely on experienced operators and partners to manage the actual execution of deals, allowing them to focus entirely on driving viral attention and marketing.
+
 
 ## 2. Midjourney Medical Scanner & Spa
 Midjourney has unveiled a new ultrasonic medical scanner that feels like visiting a spa but produces **terabytes of data per second**—equivalent to about 500 hours of HD internet video for every single second of scanning. The patient is lowered into a water bath through a ring of half a million tiny echolocation sensors that map the body's density in 3D in under 60 seconds. Handling this incredible volume of data requires a massive compute cluster of thousands of computers to stream, compress, and reconstruct the high-resolution medical images.
