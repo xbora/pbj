@@ -22,3 +22,7 @@ Based on the interview with AWS CEO Matt Garman (via Platformer), Amazon is hiri
 - **They are blank slates:** They haven't learned bad habits and can be easily taught Amazon's culture.
 - **They are highly adaptable:** They are eager and willing to learn new tools, which Garman views as the most important skill since jobs will change drastically over the next few years.
 - **They bring a fresh perspective:** They inject "energy and excitement" and new ideas into the company, which Garman notes you simply don't get if you only retain the exact same workforce for 15 years.
+
+## 6. Anthropic Accuses Alibaba of Illicitly Accessing Claude
+
+Anthropic claims Chinese e-commerce giant Alibaba "illicitly" accessed its Claude AI model. In a letter to U.S. lawmakers seen by [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models?utm_source=website&utm_medium=share&utm_campaign=linkedin), the company accuses Alibaba's AI lab of setting up nearly 25,000 fake accounts to engage 28 million times with the Claude chatbot between April and June. The effort was one of the biggest yet, says Anthropic, by a Chinese firm to use American AI models to develop their own, cheaper ones. Shares of Alibaba [tumbled](https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model?srnd=homepage-americas) to a 16-month low on the news.
