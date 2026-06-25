@@ -54,3 +54,11 @@ Anthropic has introduced **Claude Tag**, a new Slack-native, collaborative AI ag
 - **Ambient Capabilities:** Claude Tag works asynchronously, meaning it can proactively flag relevant information, follow up on quiet threads, and pursue autonomous tasks over hours or days.
 - **Strict Data Control:** System administrators have strict control over data and tool access. Claude's identity and memories are scoped strictly to specific channels (e.g., a sales Claude is completely walled off from an engineering Claude).
 - **Current Availability:** Available in beta today for Claude Enterprise and Team customers, running on the Opus 4.8 model. Anthropic notes that 65% of their product team's code is already created using this tool internally.
+
+
+## Latent Space: GLM-5.2 Passes the Vibe Check
+- **GLM-5.2 Validated as Frontier-Level:** Zhipu's open-weight model GLM-5.2 (a 753B MoE) is widely praised for performing on par with closed frontier models like GPT-5.5 and Claude Opus 4.8.
+- **Open Models Maturing:** GLM-5.2 shows open models are moving past benchmarks to become reliable daily drivers, fueling anticipation for an open Fable-class model.
+- **Agent Workflows Advancing:** The focus is shifting to complete agent stacks, featuring tools like Codex Record & Replay and new source control systems for concurrent AI agents.
+- **Realistic Benchmarking:** Long-horizon evals like 'AA-Briefcase' reveal that real-world knowledge work remains difficult (top models fully solved only 3% of tasks).
+- **Healthcare AI Milestones:** OpenAI's o3 Deep Research successfully helped diagnose 18 pediatric rare diseases in previously unsolved cases.
