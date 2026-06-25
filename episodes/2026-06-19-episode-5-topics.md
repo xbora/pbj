@@ -6,8 +6,13 @@ Many celebrity-backed brands fail because founders mistake a famous face for a p
 *(based on the TBPN episode titled "Jake Paul Thinks We'll Live Forever")*
 
 
-## 2. Midjourney Medical Scanner Data Scale
+## 2. Midjourney Medical Scanner & Spa
 Midjourney has unveiled a new ultrasonic medical scanner that feels like visiting a spa but produces **terabytes of data per second**—equivalent to about 500 hours of HD internet video for every single second of scanning. The patient is lowered into a water bath through a ring of half a million tiny echolocation sensors that map the body's density in 3D in under 60 seconds. Handling this incredible volume of data requires a massive compute cluster of thousands of computers to stream, compress, and reconstruct the high-resolution medical images.
+
+**Additional Takeaways:**
+- **The Midjourney Spa:** A wellness center set to open in San Francisco in 2027, featuring hot tubs and saunas, to make medical scanning an everyday, casual experience.
+- **Mass Scale Ambitions:** Midjourney aims to deploy 50,000 scanners globally by 2031, capable of performing a billion scans a month. The ultimate goal is to avoid 30% of all deaths and 50% of healthcare costs through frequent preventative monitoring.
+- **Community-Backed Research:** The initiative is entirely community-funded without traditional investors, positioning Midjourney as a unique 'community-backed research lab.'
 
 *(based on the Midjourney Medical blog post)*
 
