@@ -43,3 +43,14 @@ The 2026 Cannes Lions festival has shifted from a traditional advertising event 
 Cultural themes are overshadowing ad-industry topics: Fashion was the most visible theme (56%), followed by entertainment (49%), outpacing AI (38%) and creators (18%). Furthermore, the dialogue around AI and creators has shifted entirely to monetization, with OpenAI courting advertisers and the creator economy now recognized as a mature business sector.
 
 *(based on the PRovoke Media article: [Cannes Lions 2026 Data Shows That CEOs And Culture Are Rewriting The Festival Narrative](https://www.provokemedia.com/latest/article/cannes-lions-2026-data-shows-that-ceos-and-culture-are-rewriting-the-festival-narrative))*
+
+## 8. Introducing Claude Tag
+
+Anthropic has introduced **Claude Tag**, a new Slack-native, collaborative AI agent designed to act as a multiplayer teammate in Slack.
+
+**Key Takeaways:**
+- **Collaborative & Slack-Native:** Anyone in a Slack channel can tag `@Claude` to delegate tasks, allowing the entire team to view and interact with the ongoing work.
+- **Auto-Contextualization:** It builds context over time by automatically learning from the Slack channels and connected data sources it monitors, eliminating the need to explain context from scratch.
+- **Ambient Capabilities:** Claude Tag works asynchronously, meaning it can proactively flag relevant information, follow up on quiet threads, and pursue autonomous tasks over hours or days.
+- **Strict Data Control:** System administrators have strict control over data and tool access. Claude's identity and memories are scoped strictly to specific channels (e.g., a sales Claude is completely walled off from an engineering Claude).
+- **Current Availability:** Available in beta today for Claude Enterprise and Team customers, running on the Opus 4.8 model. Anthropic notes that 65% of their product team's code is already created using this tool internally.
