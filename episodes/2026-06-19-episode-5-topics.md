@@ -26,3 +26,11 @@ Based on the interview with AWS CEO Matt Garman (via Platformer), Amazon is hiri
 ## 6. Anthropic Accuses Alibaba of Illicitly Accessing Claude
 
 Anthropic claims Chinese e-commerce giant Alibaba "illicitly" accessed its Claude AI model. In a letter to U.S. lawmakers seen by [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models?utm_source=website&utm_medium=share&utm_campaign=linkedin), the company accuses Alibaba's AI lab of setting up nearly 25,000 fake accounts to engage 28 million times with the Claude chatbot between April and June. The effort was one of the biggest yet, says Anthropic, by a Chinese firm to use American AI models to develop their own, cheaper ones. Shares of Alibaba [tumbled](https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model?srnd=homepage-americas) to a 16-month low on the news.
+
+## 7. Cannes Lions 2026: Shift to CEOs, Culture, and Monetization
+
+The 2026 Cannes Lions festival has shifted from a traditional advertising event into a broader cultural and boardroom-level gathering. Media data from CARMA reveals that CEOs have replaced marketing executives as the primary storytellers, appearing in 68% of media coverage combined, while Chief Marketing Officers (CMOs) feature in just 20%. 
+
+Cultural themes are overshadowing ad-industry topics: Fashion was the most visible theme (56%), followed by entertainment (49%), outpacing AI (38%) and creators (18%). Furthermore, the dialogue around AI and creators has shifted entirely to monetization, with OpenAI courting advertisers and the creator economy now recognized as a mature business sector.
+
+*(based on the PRovoke Media article: [Cannes Lions 2026 Data Shows That CEOs And Culture Are Rewriting The Festival Narrative](https://www.provokemedia.com/latest/article/cannes-lions-2026-data-shows-that-ceos-and-culture-are-rewriting-the-festival-narrative))*
