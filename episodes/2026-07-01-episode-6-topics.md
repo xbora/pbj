@@ -18,6 +18,14 @@ AWS announced a $1 billion investment to create a new "Forward Deployed Engineer
 
 During a Wednesday 'Squawk Box' interview, Palantir CEO Alex Karp criticized 'tokenmaxxing,' where companies charge per AI token while enterprises risk handing over sensitive data and competitive edges. He promoted Palantir's Nvidia partnership for 'sovereign' AI environments, letting firms control their own models, data, and outputs without black-box dangers. Reactions ranged from investor praise for exposing hype to critics labeling it a nervous breakdown, while Karp reaffirmed his strong pro-Israel stance amid the company's defense ties.
 
+## What does Spotify's agent loop story tell us about making agents actually work?
+
+An Anatoli Kopadze post quotes Spotify Chief Architect Niklas Gustavsson saying that once Spotify implemented loops in its workflow, agent success rates went from 20-30% to 80%. The post frames this around a conversation with Claude Code creator Boris Cherny about Spotify running AI agents across 20 million lines of code, with 73% of code written by AI and most merged without a human ever seeing it. The interesting angle is not just "AI writes code." It is that the model matters less than the loop around it. For agentic brand transformation, this is a useful bridge: CEOs should care less about which model someone picked and more about whether the team has built feedback loops, verification steps, retries, quality checks, and ways for the agent to improve from the work it just did.
+
+## Is OASIS 1 just another AI gadget, or does it point to a new interface for agents?
+
+OASIS introduced OASIS 1 as a smart ring built for private dictation: "whisper to write" and "touch to edit." Their framing is that it is a first step beyond the keyboard, toward a world where your intent follows you across every device. The product may or may not become the winning form factor, but the direction is interesting. If agents are going to become part of daily work, the input layer has to get easier than opening a laptop, finding the right app, typing a prompt, and pasting context. A private, always-available way to capture intent could matter for founders, operators, creative teams, and anyone who has ideas while moving through the day. The bigger topic is whether the keyboard remains the primary interface for agent work, or whether voice, wearables, and context-aware capture become the front door to company agents.
+
 ## Bora Agentic Brand Shorts
 
 ### How should a company think about building a company brain, and how do you know which data backend is right?
