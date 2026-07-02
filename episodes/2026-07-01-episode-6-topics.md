@@ -11,3 +11,9 @@ AWS announced a $1 billion investment to create a new "Forward Deployed Engineer
 - **Targeting Regulated Industries:** AWS anticipates the next major wave of AI adopters will be companies in highly regulated industries with diverse datasets.
 
 *(Based on the CNBC article: AWS puts $1 billion into new AI unit to embed engineers with customers)*
+
+## Palantir's Alex Karp Blasts AI Rivals' Token Model in CNBC Rant
+
+*Last updated 3 hours ago*
+
+During a Wednesday 'Squawk Box' interview, Palantir CEO Alex Karp criticized 'tokenmaxxing,' where companies charge per AI token while enterprises risk handing over sensitive data and competitive edges. He promoted Palantir's Nvidia partnership for 'sovereign' AI environments, letting firms control their own models, data, and outputs without black-box dangers. Reactions ranged from investor praise for exposing hype to critics labeling it a nervous breakdown, while Karp reaffirmed his strong pro-Israel stance amid the company's defense ties.
