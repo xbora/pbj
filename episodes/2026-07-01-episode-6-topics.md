@@ -35,3 +35,9 @@ The best place for DTC brands to start is usually where there is high volume and
 ### Where to Start with AI Agents
 
 A company should start with the work that is already repetitive. Not the coolest use case. Not the biggest abstract strategy deck. Look for something the team does dozens or hundreds of times a month: reviewing creators, making ad variants, tagging assets, writing briefs, pulling reports, checking performance, or answering the same operational questions. If it happens once, use ChatGPT or Claude manually. If it keeps happening, that is agent territory. The first agent should be boring, useful, measurable, and easy for the team to inspect and improve.
+
+
+## Questions for Paddy (from Bora)
+
+1. "Out of interest, what has AI changed the most about affiliate marketing?" or "How has it impacted the affiliate marketing industry?"
+2. How have brands adapted to this change, and who has done it best?
