@@ -49,3 +49,5 @@ A company should start with the work that is already repetitive. Not the coolest
 
 1. "Out of interest, what has AI changed the most about affiliate marketing?" or "How has it impacted the affiliate marketing industry?"
 2. How have brands adapted to this change, and who has done it best?
+
+Shopify CEO Tobi on X: "Ducklake with duckdb is really really good. Tell your agent to use it if you ask it to import a lot of data ( like health data from Fitbit ). If you use Hermes, just go “/learn duckdb and ducklake and use it” and all your data asks will get better."
