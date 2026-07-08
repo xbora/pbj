@@ -6,7 +6,12 @@ Uber is massively scaling Agentic AI beyond software engineering (where 99% of e
 
 To do this, they created **Agentic Pods**:
 * **Team Structure:** Paired ~30 AI-proficient engineers with business domain experts.
-* **2-Week Sprints:** Engineers shadow the expert, document workflows, prioritize, build the agent *with* the expert, validate, and ship (all in 10 days).
+* **2-Week Sprints:**
+  * Days 1 – 2: Shadow the expert. Observe every step. Document workflows. Ask questions. Build intuition.
+  * Day 3: Prioritize opportunities based on scale, repetition, business impact, and data availability.
+  * Days 4 – 5: Build a working agent alongside the person doing the job.
+  * Days 6 – 9: Validate with several others performing the same work. Does it generalize? Does it actually make their job better?
+  * Day 10: Ship.
 * **Results:** 16 pods deployed across 16 functions in 2 months. Achieved drastic time savings (e.g., Marketing web QA reduced from 2 weeks to 50 minutes; Financial pacing reports from 2 days to 10 minutes).
 
 **Key Takeaways:**
