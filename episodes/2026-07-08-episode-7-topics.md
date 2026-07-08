@@ -1,6 +1,6 @@
 ## Uber's Agentic Pods (Praveen Neppalli Naga, CTO @ Uber)
 
-**Source:** [LinkedIn Post](https://www.linkedin.com/in/ACoAAAEqP7EB26LfXTY0jTZIMARd_mCtc9YdcYM?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEqP7EB26LfXTY0jTZIMARd_mCtc9YdcYM)
+**Source:** [LinkedIn Post](https://www.linkedin.com/posts/pneppalli_agentic-ai-adoption-is-on-fire-at-uber-and-share-7480367288781746176-Ji7t/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAjp7gBDXMHmugat-dSDnIfIxLMaRXNfeg)
 
 Uber is massively scaling Agentic AI beyond software engineering (where 99% of engineers use AI tools and 70%+ of PRs are AI-attributed) to business functions like Finance, Legal, and HR. 
 
