@@ -1,3 +1,5 @@
+new model releases discussion Claude Fable, GPT 5.6, Grok 4.5 (developed with Cursor) and Gemini 3.5 Pro (coming in q week or so)
+
 ## Uber's Agentic Pods (Praveen Neppalli Naga, CTO @ Uber)
 
 **Source:** [LinkedIn Post](https://www.linkedin.com/posts/pneppalli_agentic-ai-adoption-is-on-fire-at-uber-and-share-7480367288781746176-Ji7t/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAjp7gBDXMHmugat-dSDnIfIxLMaRXNfeg)
