@@ -34,3 +34,15 @@ To do this, they created **Agentic Pods**:
 * **From agent prompter to agent manager:** Leaders shifting from manually prompting models to *managing* fleets of autonomous agents in the cloud via state machines and Kanban boards.
 * **Anthropic's "global workspace" research:** Their new paper found an emergent internal workspace in Claude that mirrors theories of human conscious access. *Note: Be precise here - it doesn't claim Claude is conscious or has feelings, but it's a fascinating window into what these models are "thinking" but not saying.*
 * **Obliterate, don't automate:** Using AI to completely reinvent and replace broken legacy business models, rather than just bolting automation onto existing flawed processes.
+
+## Article Summary: 20 Questions for the Agentic Enterprise
+**Source:** [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise)
+
+This article outlines Google Cloud's "build-to-govern" framework, designed to help IT leaders evaluate and deploy autonomous AI agents effectively across their organizations. It presents 20 essential questions categorized into four key phases of AI agent adoption using enterprise platforms:
+
+1. **The Build Phase (Establishing the foundation):** Creating the core groundwork, selecting models, and providing the right base tools for agent development.
+2. **The Scale Phase (Connectivity and orchestration):** Connecting agents to existing business data/systems and orchestrating multiple agents to work together.
+3. **The Optimize Phase (Trust and efficiency):** Evaluating agent performance, ensuring reliability, and building organizational trust in autonomous decisions.
+4. **The Govern Phase (Security and oversight):** Managing compliance, enforcing access controls, and maintaining human oversight to mitigate the risks of autonomous actions.
+
+*Relevance to Episode 7:* This directly ties into our news topic on shifting from "agent prompter to agent manager," offering a concrete look at how enterprise IT is tackling the governance, scale, and orchestration of multi-agent operations.
