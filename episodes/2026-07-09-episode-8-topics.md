@@ -30,3 +30,11 @@ Enterprises must establish a strict "trust boundary" to protect their learning m
 - Over 200 economists, AI leaders, and Nobel laureates (including Daron Acemoglu and Simon Johnson) signed a statement warning that AI could drive economic transformation larger than the Industrial Revolution, risking large-scale job displacement in a condensed timeframe.
 - While there is no massive AI jobs crisis yet, warning signs are appearing: early-career, entry-level jobs most exposed to AI are starting to shrink (down 2.7% this year) as employers use AI for junior-level tasks and focus hiring on senior roles.
 - The statement, organized by Stanford economist Erik Brynjolfsson, urges proactive measures before the "tsunami" hits. Proposed solutions include AI-funded sovereign wealth funds, overhauled unemployment insurance, and wage insurance.
+
+## Topic: Meta's AI Ads Push Causing Chaos for Brands
+*Source: [Business Insider](https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7)*
+
+- **The Issue:** Meta's push for advertisers to use its AI tools is causing bizarre ad errors, such as strangely twisted limbs, gibberish text, and entirely altered products (e.g., REI's ad featuring a bicycle with two handlebars).
+- **Advertiser Frustration:** Meta has reportedly auto-enrolled brands in some AI features or had them enabled via bugs. This creates extra work for advertisers who must constantly double-check campaigns and ensure AI enhancements are toggled off to prevent brand damage.
+- **Meta's Stance:** Meta claims that AI can make mistakes and places the responsibility squarely on advertisers to review AI outputs.
+- **Why Brands Stay:** Despite the headaches, advertisers admit it is difficult to quit Meta due to its massive reach (3.5 billion daily active users) and highly sophisticated targeting data, making it essential for customer acquisition.
