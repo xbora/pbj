@@ -24,3 +24,9 @@ Enterprises must establish a strict "trust boundary" to protect their learning m
 3. **Choice:** Decouple orchestration from single models to avoid lock-in and retain veteran capabilities even if a specific model is removed.
 4. **Cost:** Optimize context, models, and tasks efficiently by decoupling the orchestration layer.
 5. **Compound:** Combine the above to create a continuous, proprietary learning loop (a "hill climbing machine") that compounds the firm's AI investments.
+## Topic: The loudest warning about AI and jobs yet
+
+**Core Takeaways:**
+- Over 200 economists, AI leaders, and Nobel laureates (including Daron Acemoglu and Simon Johnson) signed a statement warning that AI could drive economic transformation larger than the Industrial Revolution, risking large-scale job displacement in a condensed timeframe.
+- While there is no massive AI jobs crisis yet, warning signs are appearing: early-career, entry-level jobs most exposed to AI are starting to shrink (down 2.7% this year) as employers use AI for junior-level tasks and focus hiring on senior roles.
+- The statement, organized by Stanford economist Erik Brynjolfsson, urges proactive measures before the "tsunami" hits. Proposed solutions include AI-funded sovereign wealth funds, overhauled unemployment insurance, and wage insurance.
