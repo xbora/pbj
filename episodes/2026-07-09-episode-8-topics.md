@@ -38,3 +38,9 @@ Enterprises must establish a strict "trust boundary" to protect their learning m
 - **Advertiser Frustration:** Meta has reportedly auto-enrolled brands in some AI features or had them enabled via bugs. This creates extra work for advertisers who must constantly double-check campaigns and ensure AI enhancements are toggled off to prevent brand damage.
 - **Meta's Stance:** Meta claims that AI can make mistakes and places the responsibility squarely on advertisers to review AI outputs.
 - **Why Brands Stay:** Despite the headaches, advertisers admit it is difficult to quit Meta due to its massive reach (3.5 billion daily active users) and highly sophisticated targeting data, making it essential for customer acquisition.
+
+## Thinking Machines - Inkling
+- **Model**: 975B parameter (41B active) Mixture-of-Experts transformer with a 1M token context window.
+- **Features**: Native multimodal capabilities (text, image, audio) and controllable thinking effort to balance performance with latency/cost.
+- **Capabilities**: Strong agentic coding abilities.
+- **Fine-tuning**: Heavily optimized to be an excellent base model for fine-tuning via their Tinker platform (they demonstrated this by having the model autonomously fine-tune itself to stop using the letter 'e').
