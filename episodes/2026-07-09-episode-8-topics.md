@@ -44,3 +44,15 @@ Enterprises must establish a strict "trust boundary" to protect their learning m
 - **Features**: Native multimodal capabilities (text, image, audio) and controllable thinking effort to balance performance with latency/cost.
 - **Capabilities**: Strong agentic coding abilities.
 - **Fine-tuning**: Heavily optimized to be an excellent base model for fine-tuning via their Tinker platform (they demonstrated this by having the model autonomously fine-tune itself to stop using the letter 'e').
+
+
+## Questions
+
+**Bora asks Paddy:**
+1. You have important news to share about a massive new partnership. Let's hear it.
+2. There has been incredible drama in the past week about Bill Gates' daughter's company. And you had a front row seat. Tell us about it.
+
+**Paddy asks Bora:**
+1. Should brands be using OpenClaw or Hermes for their agentic operations?
+2. Should brands be vibe coding internal web apps or building agents instead?
+3. What is the _Reverse Information Paradox" was written by Satya Nadella, Microsoft CEO._ And is this relevant for how brands are building their agentic operations?
