@@ -6,6 +6,7 @@
 *From the July 9th 20VC episode:*
 > "I'm trying to build this project right now... and it's got a sufficiently complex algorithm that I can't understand it. I'm using the mix of the models in Replit which there's it's Sonnet plus open source... Can't quite get it right. So... I'm passing it to Fable and Opus and then I'm running both side by side... after spending about 10 hours in Replit I couldn't solve this big algo problem I solved in about 20 minutes in Fable and Opus... there's going to be this grade of problems where I lost so much time and money using the n-minus-one step down model. I lost a day, endless cycles... I got stuff to do... By using Fable plus Opus... I was able to get to the heart of the problem in an algorithm I could not understand... As the problems we solve get bigger and more complicated, I'm not sure I want to waste a day on a mediocre answer that doesn't work."
 ## Topic: The Reverse Information Paradox
+*Source: [snscratchpad.com/posts/reverse-information-paradox](https://snscratchpad.com/posts/reverse-information-paradox/)*
 
 *Note: The concept of "The Reverse Information Paradox" was written by Satya Nadella, Microsoft CEO.*
 
@@ -40,6 +41,8 @@ Enterprises must establish a strict "trust boundary" to protect their learning m
 - **Why Brands Stay:** Despite the headaches, advertisers admit it is difficult to quit Meta due to its massive reach (3.5 billion daily active users) and highly sophisticated targeting data, making it essential for customer acquisition.
 
 ## Thinking Machines - Inkling
+*Source: [thinkingmachines.ai/news/introducing-inkling](https://thinkingmachines.ai/news/introducing-inkling/)*
+
 - **Model**: 975B parameter (41B active) Mixture-of-Experts transformer with a 1M token context window.
 - **Features**: Native multimodal capabilities (text, image, audio) and controllable thinking effort to balance performance with latency/cost.
 - **Capabilities**: Strong agentic coding abilities.
