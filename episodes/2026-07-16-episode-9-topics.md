@@ -14,3 +14,37 @@ In "The Self-Driving Company", Replit CEO Amjad Masad explains how Replit has su
 - **Support:** Agents can follow playbooks to investigate tickets, resulting in a 60% faster resolution for escalated issues.
 
 **Takeaway:** Replit is offering a preview of what's to come for the modern enterprise. Using AI for internal company operations isn't just a cost-saver—it completely multiplies the output and strategic leverage of human employees.
+
+## Topic: 12-Factor Companies (by Jeff Huber)
+**Original Article**: [LinkedIn Post](https://www.linkedin.com/pulse/12-factor-companies-jeff-huber-udxae/)
+
+### Summary
+In the spirit of 12-factor apps and 12-factor agents, Jeff Huber proposes "12-factor companies." As AI evolves, the firm of the future will be designed around the bottleneck of human taste and judgment rather than human execution. The new firm bundles context and authority.
+
+### The 12 Factors:
+
+**Data vs compute**
+1. **Own your context:** Avoid tools that hoard context to create a moat. You must have complete and unlimited access to your data.
+2. **Rent your intelligence:** Intelligence will become a commodity. Make it easy to swap intelligence and don't let context vampires in.
+
+**Build vs buy**
+3. **Build your tools:** Owning your unique tooling stack is another way to defend your unique context. 
+4. **Buy your infrastructure:** You shouldn't build everything (like databases or training infra). Buying primitives allows you to move faster.
+
+**Hiring**
+5. **Hire agents before people:** For a new task, first try teaching an agent to do it before hiring someone.
+6. **Build small and extremely high taste teams:** When the bottleneck moves from execution to taste, you must optimize for small, high-quality teams.
+
+**Learning**
+7. **Maximize internal information openness:** Silos are catastrophic for agents. Default to open for your teams.
+8. **Design a compounding learning machine:** The winning organizations will learn faster and reduce their cycle time.
+
+**Process design**
+9. **Develop rubrics:** Provide agents with ample instructions and a scorecard to check their work, iterating over time.
+10. **Reactive + Proactive:** Look for ways to build background agents with organizational context that can proactively propose improvements.
+
+**Task learning**
+11. **Store and learn from production traces:** Use real execution of agents to help them improve, moving toward recursive self-improvement.
+12. **Encode your expertise:** Employ agents to identify patterns of issues and correct them by interviewing you to fix them.
+
+**(13, bonus!):** Think before you AI! Your thought and taste is, and will continue to be, your advantage.
