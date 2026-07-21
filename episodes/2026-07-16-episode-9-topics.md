@@ -48,3 +48,12 @@ In the spirit of 12-factor apps and 12-factor agents, Jeff Huber proposes "12-fa
 12. **Encode your expertise:** Employ agents to identify patterns of issues and correct them by interviewing you to fix them.
 
 **(13, bonus!):** Think before you AI! Your thought and taste is, and will continue to be, your advantage.
+
+## Topic: Claude Cowork Adds Screen-Recording to Teach AI Skills
+*Note: This relates to something we talked about in the past, and now Claude has made it easier natively.*
+
+### Summary
+**Claude Cowork Adds Screen-Recording to Teach AI Skills**
+*Last updated 2 hours ago*
+
+The 'Record a skill' tool in Claude Cowork lets Pro, Max, and Team users capture workflows like filing expenses, with Claude analyzing the recording to automate them later. Launched Tuesday, it builds on Claude's abilities to edit files, organize folders, and interact with apps in a shared workspace that runs on Anthropic's servers. Users are testing it for trading alerts, LinkedIn tasks, and email replies, though some noted a phased rollout and privacy questions linger as skills may help improve models.
