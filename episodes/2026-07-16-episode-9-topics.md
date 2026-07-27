@@ -57,3 +57,14 @@ In the spirit of 12-factor apps and 12-factor agents, Jeff Huber proposes "12-fa
 *Last updated 2 hours ago*
 
 The 'Record a skill' tool in Claude Cowork lets Pro, Max, and Team users capture workflows like filing expenses, with Claude analyzing the recording to automate them later. Launched Tuesday, it builds on Claude's abilities to edit files, organize folders, and interact with apps in a shared workspace that runs on Anthropic's servers. Users are testing it for trading alerts, LinkedIn tasks, and email replies, though some noted a phased rollout and privacy questions linger as skills may help improve models.
+
+## The New Rules of Context Engineering for Claude 5
+*Source: [Claude Blog](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)*
+
+Anthropic recently shared how context engineering has drastically changed for the newest generation of models (like Claude Opus 5 and Fable 5). They removed over 80% of Claude Code's system prompt with no measurable loss in performance. 
+
+Key takeaways for working with Claude 5:
+- **Let Claude Use Judgment Over Strict Rules:** Previous strict guardrails (e.g., "DO NOT add comments") are no longer necessary and can actually confuse the model when they clash with user prompts. Claude 5 can adapt to surrounding context.
+- **Design Interfaces Over Examples:** Providing strict examples limits the model's exploration space. Instead, design better tools and parameters (like specific Enum values) to guide behavior.
+- **Progressive Disclosure Over Huge Prompts:** Rather than putting all instructions and context in the initial system prompt or a giant `CLAUDE.md` file, use tools, memory, and artifacts to allow Claude to load context and tools precisely when needed.
+- **Simple Descriptions Over Repetition:** Claude no longer needs repeated instructions at both the start and end of context windows. Clear, singular instructions in tool descriptions are enough.
