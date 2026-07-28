@@ -68,3 +68,5 @@ Key takeaways for working with Claude 5:
 - **Design Interfaces Over Examples:** Providing strict examples limits the model's exploration space. Instead, design better tools and parameters (like specific Enum values) to guide behavior.
 - **Progressive Disclosure Over Huge Prompts:** Rather than putting all instructions and context in the initial system prompt or a giant `CLAUDE.md` file, use tools, memory, and artifacts to allow Claude to load context and tools precisely when needed.
 - **Simple Descriptions Over Repetition:** Claude no longer needs repeated instructions at both the start and end of context windows. Clear, singular instructions in tool descriptions are enough.
+
+## Topic: Challenge the open source models can do 95% of the tasks claim and discuss the tasks that matter are the other 5%
